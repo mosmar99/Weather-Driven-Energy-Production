@@ -1,0 +1,98 @@
+{
+    "version": "5.3.2.v202409051351",
+    "created": "2024-10-31 04:52",
+    "nodestats": {
+        "nodes": [
+            {
+                "id": "org.knime.rest.nodes.get.RestGetNodeFactory",
+                "nodename": "GET Request",
+                "nrexecs": 7,
+                "nrfails": 0,
+                "exectime": 1581,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.json.node.totable.JSONToTableNodeFactory",
+                "nodename": "JSON to Table",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 194,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.json.node.jsonpath.multi.JSONPathNodeFactory",
+                "nodename": "JSON Path",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 57,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.filter.column.DataColumnSpecFilterNodeFactory",
+                "nodename": "Column Filter",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 1,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.node.preproc.ungroup.UngroupNodeFactory",
+                "nodename": "Ungroup",
+                "nrexecs": 1,
+                "nrfails": 0,
+                "exectime": 14,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.time.node.convert.timestamptodatetime.TimestampToDateTimeNodeFactory",
+                "nodename": "UNIX Timestamp to Date&Time",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 25,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            },
+            {
+                "id": "org.knime.base.views.node.lineplot.LinePlotNodeFactory",
+                "nodename": "Line Plot",
+                "nrexecs": 2,
+                "nrfails": 0,
+                "exectime": 0,
+                "nrcreated": 0,
+                "successor": "n/a",
+                "successornodename": "n/a"
+            }
+        ],
+        "metaNodes": {
+        },
+        "wrappedNodes": {
+        },
+        "createdVia": {
+        }
+    },
+    "uptime": 1806737,
+    "workflowsOpened": 3,
+    "remoteWorkflowsOpened": 0,
+    "columnarStorageWorkflowsOpened": 0,
+    "workflowsImported": 0,
+    "workflowsExported": 0,
+    "webUIPerspectiveSwitches": 0,
+    "javaUIPerspectiveSwitches": 0,
+    "lastUsedPerspective": "starter",
+    "launches": 2,
+    "lastApplicationID": "org.knime.product.KNIME_APPLICATION",
+    "timeSinceLastStart": 78309,
+    "crashes": 0,
+    "properlyShutDown": false
+}

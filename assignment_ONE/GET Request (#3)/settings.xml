@@ -7,7 +7,7 @@
     </config>
     <config key="model">
         <entry key="Use constant URI" type="xboolean" value="true"/>
-        <entry key="Constant URI" type="xstring" value="https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station/159880/period/latest-day/data.json"/>
+        <entry key="Constant URI" type="xstring" value="https://opendata-download-metobs.smhi.se/api/version/1.0/parameter/1/station/52350/period/latest-day/data.json"/>
         <entry key="URI column" type="xstring" isnull="true" value=""/>
         <entry key="delay_enabled" type="xboolean" value="false"/>
         <entry key="delay" type="xlong" value="0"/>
@@ -154,6 +154,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="b32cf1de-cd1c-488b-8a41-7c291f556819"/>
+        <entry key="file_store_id" type="xstring" value="81b026eb-409e-4da4-9136-3511e9f5ffe4"/>
     </config>
 </config>

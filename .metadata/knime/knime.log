@@ -1,0 +1,8 @@
+2024-10-31 06:02:27,615 : WARN  : AWT-EventQueue-0 :  : JSONPathNodeDialog : JSON Path : 4:5 : No JSON column in the input table: name=default,columns=[]
+2024-10-31 06:03:47,697 : ERROR : main :  : KnimeBrowserView :  :  : Uncaught (in promise) TypeError: Cannot read properties of null (reading 'rowCount') (source: http://org.knime.core.ui.port/uiext/tableview/TableView.js; line: 13319)
+2024-10-31 06:27:24,023 : WARN  : KNIME-Worker-5-GET Request 4:3 :  : Node : JSON to Table : 4:4 : No JSON columns are available.
+2024-10-31 06:27:58,949 : WARN  : KNIME-Worker-6-GET Request 4:3 :  : Node : JSON to Table : 4:4 : No JSON columns are available.
+2024-10-31 06:29:08,603 : WARN  : KNIME-Worker-7-GET Request 4:3 :  : Node : JSON to Table : 4:4 : No JSON columns are available.
+2024-10-31 06:51:16,910 : WARN  : KNIME-Worker-8-GET Request 4:3 :  : Node : JSON to Table : 4:4 : No JSON columns are available.
+2024-10-31 06:53:14,961 : WARN  : KNIME-Worker-0-GET Request 3:3 :  : Node : JSON to Table : 3:4 : No JSON columns are available.
+2024-10-31 06:53:47,031 : WARN  : KNIME-Worker-0-GET Request 3:3 :  : Node : JSON to Table : 3:4 : No JSON columns are available.
