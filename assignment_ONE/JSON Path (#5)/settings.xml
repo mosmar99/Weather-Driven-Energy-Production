@@ -16,7 +16,7 @@
         </config>
         <config key="jsonpath">
             <entry key="array-size" type="xint" value="3"/>
-            <entry key="0" type="xstring" value="$.[*].date"/>
+            <entry key="0" type="xstring" value="$.[*].from"/>
             <entry key="1" type="xstring" value="$.[*].value"/>
             <entry key="2" type="xstring" value="$.[*].quality"/>
         </config>
@@ -66,6 +66,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="92946c7f-6a7d-444f-95f0-ad31f2aa3733"/>
+        <entry key="file_store_id" type="xstring" value="8a41eb58-7d33-4873-bfc1-3ead9e6cb7e7"/>
     </config>
 </config>
