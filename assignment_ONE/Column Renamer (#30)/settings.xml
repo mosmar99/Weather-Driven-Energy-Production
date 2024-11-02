@@ -9,7 +9,7 @@
         <config key="renamings">
             <config key="0">
                 <entry key="oldName" type="xstring" value="Value"/>
-                <entry key="newName" type="xstring" value="Energy Usage"/>
+                <entry key="newName" type="xstring" value="Wind Energy"/>
             </config>
             <config key="1">
                 <entry key="oldName" type="xstring" value="Type"/>
@@ -60,6 +60,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="5debd288-086e-40f8-b0b5-9987cefa9065"/>
+        <entry key="file_store_id" type="xstring" value="1dce3ee8-11fb-4c75-810f-038d8525ff19"/>
     </config>
 </config>

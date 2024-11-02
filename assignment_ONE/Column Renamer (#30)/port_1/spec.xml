@@ -82,7 +82,7 @@
         <config key="meta_data"/>
     </config>
     <config key="column_spec_2">
-        <entry key="column_name" type="xstring" value="Energy Usage"/>
+        <entry key="column_name" type="xstring" value="Wind Energy"/>
         <config key="element_names">
             <entry key="array-size" type="xint" value="0"/>
         </config>

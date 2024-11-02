@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config xmlns="http://www.knime.org/2008/09/XMLConfig" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.knime.org/2008/09/XMLConfig http://www.knime.org/XMLConfig_2008_09.xsd" key="settings.xml">
+    <entry key="node_file" type="xstring" value="settings.xml"/>
+    <config key="flow_stack">
+        <config key="Variable_0">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="RowID"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value=""/>
+        </config>
+        <config key="Variable_1">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(selection)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+        </config>
+        <config key="Variable_2">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(id)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="0"/>
+            </config>
+        </config>
+        <config key="Variable_3">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="RowID"/>
+            <entry key="class" type="xstring" value="STRING"/>
+            <entry key="value" type="xstring" value="Row0"/>
+        </config>
+        <config key="Variable_4">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(selection)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="556"/>
+                <entry key="0" type="xstring" value="154860 - Abelvattnet Aut - CORE"/>
+                <entry key="1" type="xstring" value="188790 - Abisko Aut - CORE"/>
+                <entry key="2" type="xstring" value="158990 - Abraur - CORE"/>
+                <entry key="3" type="xstring" value="97280 - Adelsö A - CORE"/>
+                <entry key="4" type="xstring" value="117330 - Agö - CORE"/>
+                <entry key="5" type="xstring" value="75040 - Allgunnen - CORE"/>
+                <entry key="6" type="xstring" value="99090 - Almagrundet A - CORE"/>
+                <entry key="7" type="xstring" value="178790 - Aluokta - CORE"/>
+                <entry key="8" type="xstring" value="82000 - Alvhem - CORE"/>
+                <entry key="9" type="xstring" value="73250 - Ambjörnarp - CORE"/>
+                <entry key="10" type="xstring" value="11046 - Anilla - ADDITIONAL"/>
+                <entry key="11" type="xstring" value="144530 - Ankarvattnet - CORE"/>
+                <entry key="12" type="xstring" value="167710 - Arjeplog A - CORE"/>
+                <entry key="13" type="xstring" value="97390 - Arlanda - CORE"/>
+                <entry key="14" type="xstring" value="159880 - Arvidsjaur A - CORE"/>
+                <entry key="15" type="xstring" value="92400 - Arvika - CORE"/>
+                <entry key="16" type="xstring" value="92410 - Arvika A - CORE"/>
+                <entry key="17" type="xstring" value="84660 - Askersund - CORE"/>
+                <entry key="18" type="xstring" value="94370 - Asphyttan - CORE"/>
+                <entry key="19" type="xstring" value="84340 - Axstål - CORE"/>
+                <entry key="20" type="xstring" value="105550 - Backa - CORE"/>
+                <entry key="21" type="xstring" value="97260 - Barkarby - CORE"/>
+                <entry key="22" type="xstring" value="82540 - Bastorp - CORE"/>
+                <entry key="23" type="xstring" value="98040 - Berga - CORE"/>
+                <entry key="24" type="xstring" value="116650 - Bjuråker - CORE"/>
+                <entry key="25" type="xstring" value="151290 - Bjuröklubb - CORE"/>
+                <entry key="26" type="xstring" value="151280 - Bjuröklubb A - CORE"/>
+                <entry key="27" type="xstring" value="53650 - Björka - CORE"/>
+                <entry key="28" type="xstring" value="142030 - Björkede - CORE"/>
+                <entry key="29" type="xstring" value="107040 - Björklinge - CORE"/>
+                <entry key="30" type="xstring" value="83640 - Björnegården - CORE"/>
+                <entry key="31" type="xstring" value="92170 - Blomskog - CORE"/>
+                <entry key="32" type="xstring" value="92130 - Blomskog A - CORE"/>
+                <entry key="33" type="xstring" value="132110 - Blåhammaren A - CORE"/>
+                <entry key="34" type="xstring" value="161940 - Boden - CORE"/>
+                <entry key="35" type="xstring" value="83170 - Borgunda - CORE"/>
+                <entry key="36" type="xstring" value="105310 - Borlänge - CORE"/>
+                <entry key="37" type="xstring" value="105280 - Borlänge Aut - CORE"/>
+                <entry key="38" type="xstring" value="105260 - Borlänge Flygplats - CORE"/>
+                <entry key="39" type="xstring" value="75002 - Borlänge GBG - ADDITIONAL"/>
+                <entry key="40" type="xstring" value="72450 - Borås - CORE"/>
+                <entry key="41" type="xstring" value="5032 - Braberg - ADDITIONAL"/>
+                <entry key="42" type="xstring" value="138270 - Bredbyn - CORE"/>
+                <entry key="43" type="xstring" value="127130 - Brämön A - CORE"/>
+                <entry key="44" type="xstring" value="145450 - Brännåkersfjället V - CORE"/>
+                <entry key="45" type="xstring" value="157870 - Buresjön A - CORE"/>
+                <entry key="46" type="xstring" value="78240 - Buttle - CORE"/>
+                <entry key="47" type="xstring" value="133030 - Bydalen V - CORE"/>
+                <entry key="48" type="xstring" value="84620 - Bällefors - CORE"/>
+                <entry key="49" type="xstring" value="136610 - Bölestrand - CORE"/>
+                <entry key="50" type="xstring" value="123460 - Börtnan A - CORE"/>
+                <entry key="51" type="xstring" value="94390 - Daglösen A - CORE"/>
+                <entry key="52" type="xstring" value="73430 - Dalsjöfors - CORE"/>
+                <entry key="53" type="xstring" value="107120 - Dannemora - CORE"/>
+                <entry key="54" type="xstring" value="116480 - Delsbo - CORE"/>
+                <entry key="55" type="xstring" value="116490 - Delsbo A - CORE"/>
+                <entry key="56" type="xstring" value="156770 - Dikanäs - CORE"/>
+                <entry key="57" type="xstring" value="156790 - Dikanäs Skansnäs - CORE"/>
+                <entry key="58" type="xstring" value="105640 - Domnarvet - CORE"/>
+                <entry key="59" type="xstring" value="123060 - Dravagen A - CORE"/>
+                <entry key="60" type="xstring" value="96120 - Dunker - CORE"/>
+                <entry key="61" type="xstring" value="132590 - Edevik - CORE"/>
+                <entry key="62" type="xstring" value="115230 - Edsbyn - CORE"/>
+                <entry key="63" type="xstring" value="115220 - Edsbyn A - CORE"/>
+                <entry key="64" type="xstring" value="107440 - Eggegrund A - CORE"/>
+                <entry key="65" type="xstring" value="74380 - Eksjö I 12 - CORE"/>
+                <entry key="66" type="xstring" value="65360 - Emmaboda - CORE"/>
+                <entry key="67" type="xstring" value="97370 - Enköping - CORE"/>
+                <entry key="68" type="xstring" value="82380 - Erikstad - CORE"/>
+                <entry key="69" type="xstring" value="96230 - Eskilstuna - CORE"/>
+                <entry key="70" type="xstring" value="96190 - Eskilstuna A - CORE"/>
+                <entry key="71" type="xstring" value="181970 - Esrange - CORE"/>
+                <entry key="72" type="xstring" value="63470 - Exens flygplats - CORE"/>
+                <entry key="73" type="xstring" value="86090 - Falerum - CORE"/>
+                <entry key="74" type="xstring" value="52230 - Falsterbo - CORE"/>
+                <entry key="75" type="xstring" value="52240 - Falsterbo A - CORE"/>
+                <entry key="76" type="xstring" value="105370 - Falun - CORE"/>
+                <entry key="77" type="xstring" value="162800 - Farstugrunden Aut - CORE"/>
+                <entry key="78" type="xstring" value="95320 - Fellingsbro-Finnåker - CORE"/>
+                <entry key="79" type="xstring" value="63650 - Feringe - CORE"/>
+                <entry key="80" type="xstring" value="107140 - Film A - CORE"/>
+                <entry key="81" type="xstring" value="107130 - Films Kyrkby - CORE"/>
+                <entry key="82" type="xstring" value="125020 - Finneby - CORE"/>
+                <entry key="83" type="xstring" value="85410 - Finspång - CORE"/>
+                <entry key="84" type="xstring" value="122360 - Fjällnäs - CORE"/>
+                <entry key="85" type="xstring" value="71130 - Fladen - CORE"/>
+                <entry key="86" type="xstring" value="96040 - Floda A - CORE"/>
+                <entry key="87" type="xstring" value="112510 - Flötningen - CORE"/>
+                <entry key="88" type="xstring" value="106100 - Folkärna - CORE"/>
+                <entry key="89" type="xstring" value="23059 - Fors 2 - ADDITIONAL"/>
+                <entry key="90" type="xstring" value="148050 - Fredrika - CORE"/>
+                <entry key="91" type="xstring" value="148040 - Fredrika A - CORE"/>
+                <entry key="92" type="xstring" value="126300 - Fränsta 2 - CORE"/>
+                <entry key="93" type="xstring" value="63530 - Fröslida - CORE"/>
+                <entry key="94" type="xstring" value="151550 - Furuögrund - CORE"/>
+                <entry key="95" type="xstring" value="84390 - Fägre - CORE"/>
+                <entry key="96" type="xstring" value="160750 - Fällfors - CORE"/>
+                <entry key="97" type="xstring" value="160740 - Fällfors - CORE"/>
+                <entry key="98" type="xstring" value="79580 - Fårö - CORE"/>
+                <entry key="99" type="xstring" value="79520 - Fårösund - CORE"/>
+                <entry key="100" type="xstring" value="78550 - Fårösund Ar A - CORE"/>
+                <entry key="101" type="xstring" value="134410 - Föllinge A - CORE"/>
+                <entry key="102" type="xstring" value="134460 - Föllinge-Vägskälet - CORE"/>
+                <entry key="103" type="xstring" value="22051 - Gammbodarna - ADDITIONAL"/>
+                <entry key="104" type="xstring" value="82110 - Gendalen - CORE"/>
+                <entry key="105" type="xstring" value="155790 - Gielas A - CORE"/>
+                <entry key="106" type="xstring" value="135640 - Gisselås - CORE"/>
+                <entry key="107" type="xstring" value="76420 - Gladhammar A - CORE"/>
+                <entry key="108" type="xstring" value="62550 - Glommen - CORE"/>
+                <entry key="109" type="xstring" value="89240 - Gotska Sandön - CORE"/>
+                <entry key="110" type="xstring" value="89230 - Gotska Sandön A - CORE"/>
+                <entry key="111" type="xstring" value="127600 - Gran - CORE"/>
+                <entry key="112" type="xstring" value="108300 - Grundkallen - CORE"/>
+                <entry key="113" type="xstring" value="84610 - Gränna - CORE"/>
+                <entry key="114" type="xstring" value="20044 - Grådö V - ADDITIONAL"/>
+                <entry key="115" type="xstring" value="99150 - Grönskär - CORE"/>
+                <entry key="116" type="xstring" value="122610 - Grövelsjön - CORE"/>
+                <entry key="117" type="xstring" value="145130 - Gubbhögen A - CORE"/>
+                <entry key="118" type="xstring" value="147570 - Gunnarn - CORE"/>
+                <entry key="119" type="xstring" value="147560 - Gunnarn A - CORE"/>
+                <entry key="120" type="xstring" value="87360 - Gustaf Dalen A - CORE"/>
+                <entry key="121" type="xstring" value="103090 - Gustavsfors - CORE"/>
+                <entry key="122" type="xstring" value="103100 - Gustavsfors A - CORE"/>
+                <entry key="123" type="xstring" value="144300 - Gäddede - CORE"/>
+                <entry key="124" type="xstring" value="144310 - Gäddede A - CORE"/>
+                <entry key="125" type="xstring" value="180760 - Gällivare A - CORE"/>
+                <entry key="126" type="xstring" value="180740 - Gällivare Flygplats - CORE"/>
+                <entry key="127" type="xstring" value="75001 - Gävle - ADDITIONAL"/>
+                <entry key="128" type="xstring" value="107400 - Gävle - CORE"/>
+                <entry key="129" type="xstring" value="107420 - Gävle A - CORE"/>
+                <entry key="130" type="xstring" value="84520 - Gårdsjö A - CORE"/>
+                <entry key="131" type="xstring" value="71420 - Göteborg A - CORE"/>
+                <entry key="132" type="xstring" value="72420 - Göteborg-Landvetter Flygplats - CORE"/>
+                <entry key="133" type="xstring" value="74180 - Hagshult - CORE"/>
+                <entry key="134" type="xstring" value="62260 - Hallands Väderö A - CORE"/>
+                <entry key="135" type="xstring" value="135460 - Hallhåxåsen A - CORE"/>
+                <entry key="136" type="xstring" value="75004 - Hallsberg - ADDITIONAL"/>
+                <entry key="137" type="xstring" value="135440 - Hallviken - CORE"/>
+                <entry key="138" type="xstring" value="62400 - Halmstad - CORE"/>
+                <entry key="139" type="xstring" value="62410 - Halmstad flygplats - CORE"/>
+                <entry key="140" type="xstring" value="62420 - Halmstad flygplats - CORE"/>
+                <entry key="141" type="xstring" value="114410 - Hamra A - CORE"/>
+                <entry key="142" type="xstring" value="62530 - Hanarp V - CORE"/>
+                <entry key="143" type="xstring" value="64020 - Hanö A - CORE"/>
+                <entry key="144" type="xstring" value="163950 - Haparanda - CORE"/>
+                <entry key="145" type="xstring" value="163960 - Haparanda A - CORE"/>
+                <entry key="146" type="xstring" value="170670 - Harads - CORE"/>
+                <entry key="147" type="xstring" value="161780 - Haraholmen - CORE"/>
+                <entry key="148" type="xstring" value="87150 - Harstena - CORE"/>
+                <entry key="149" type="xstring" value="87140 - Harstena A - CORE"/>
+                <entry key="150" type="xstring" value="161650 - Hednoret - CORE"/>
+                <entry key="151" type="xstring" value="62030 - Helsingborg - CORE"/>
+                <entry key="152" type="xstring" value="62040 - Helsingborg A - CORE"/>
+                <entry key="153" type="xstring" value="71001 - Helsingborg GBG - ADDITIONAL"/>
+                <entry key="154" type="xstring" value="155940 - Hemavan - CORE"/>
+                <entry key="155" type="xstring" value="155970 - Hemavan Flygplats - CORE"/>
+                <entry key="156" type="xstring" value="155960 - Hemavan-Gierevarto A - CORE"/>
+                <entry key="157" type="xstring" value="138390 - Hemling A - CORE"/>
+                <entry key="158" type="xstring" value="78250 - Herrvik - CORE"/>
+                <entry key="159" type="xstring" value="73230 - Hestra D - CORE"/>
+                <entry key="160" type="xstring" value="68550 - Hoburg - CORE"/>
+                <entry key="161" type="xstring" value="68560 - Hoburg A - CORE"/>
+                <entry key="162" type="xstring" value="140360 - Holmögadd A - CORE"/>
+                <entry key="163" type="xstring" value="140460 - Holmön A - CORE"/>
+                <entry key="164" type="xstring" value="75520 - Horn A - CORE"/>
+                <entry key="165" type="xstring" value="8006 - Hossmo - ADDITIONAL"/>
+                <entry key="166" type="xstring" value="146050 - Hoting A - CORE"/>
+                <entry key="167" type="xstring" value="11044 - Hov - ADDITIONAL"/>
+                <entry key="168" type="xstring" value="75410 - Hultsfred - CORE"/>
+                <entry key="169" type="xstring" value="125450 - Hunge - CORE"/>
+                <entry key="170" type="xstring" value="125440 - Hunge A - CORE"/>
+                <entry key="171" type="xstring" value="98290 - Husarö - CORE"/>
+                <entry key="172" type="xstring" value="88590 - Huvudskär - CORE"/>
+                <entry key="173" type="xstring" value="89560 - Huvudskär Ost A - CORE"/>
+                <entry key="174" type="xstring" value="149160 - Hällnäs-Lund - CORE"/>
+                <entry key="175" type="xstring" value="83190 - Hällum A - CORE"/>
+                <entry key="176" type="xstring" value="128370 - Härnö - CORE"/>
+                <entry key="177" type="xstring" value="127380 - Härnösand - CORE"/>
+                <entry key="178" type="xstring" value="63160 - Hästveda - CORE"/>
+                <entry key="179" type="xstring" value="6057 - Håknarp2 - ADDITIONAL"/>
+                <entry key="180" type="xstring" value="81630 - Hållö - CORE"/>
+                <entry key="181" type="xstring" value="91520 - Hångstad - CORE"/>
+                <entry key="182" type="xstring" value="145340 - Högland - CORE"/>
+                <entry key="183" type="xstring" value="83610 - Högstena - CORE"/>
+                <entry key="184" type="xstring" value="91660 - Högsäter - CORE"/>
+                <entry key="185" type="xstring" value="117370 - Hölick - CORE"/>
+                <entry key="186" type="xstring" value="53530 - Hörby A - CORE"/>
+                <entry key="187" type="xstring" value="112540 - Idre Fjäll - CORE"/>
+                <entry key="188" type="xstring" value="147270 - Idvattnet - CORE"/>
+                <entry key="189" type="xstring" value="169880 - Jokkmokk - CORE"/>
+                <entry key="190" type="xstring" value="170860 - Jokkmokk Flygplats - CORE"/>
+                <entry key="191" type="xstring" value="136420 - Junsele - CORE"/>
+                <entry key="192" type="xstring" value="136410 - Junsele A - CORE"/>
+                <entry key="193" type="xstring" value="139260 - Järnäsklubb A - CORE"/>
+                <entry key="194" type="xstring" value="74470 - Jönköping - CORE"/>
+                <entry key="195" type="xstring" value="73001 - Jönköping GBG - ADDITIONAL"/>
+                <entry key="196" type="xstring" value="74460 - Jönköping-Axamos Flygplats - CORE"/>
+                <entry key="197" type="xstring" value="74450 - Jönköpings gamla flygplats - CORE"/>
+                <entry key="198" type="xstring" value="163940 - Kalix - CORE"/>
+                <entry key="199" type="xstring" value="66430 - Kalmar - CORE"/>
+                <entry key="200" type="xstring" value="66420 - Kalmar flygplats - CORE"/>
+                <entry key="201" type="xstring" value="168910 - Karats - CORE"/>
+                <entry key="202" type="xstring" value="192830 - Karesuando - CORE"/>
+                <entry key="203" type="xstring" value="192840 - Karesuando A - CORE"/>
+                <entry key="204" type="xstring" value="84310 - Karlsborg - CORE"/>
+                <entry key="205" type="xstring" value="64130 - Karlshamn - CORE"/>
+                <entry key="206" type="xstring" value="65090 - Karlskrona-Söderstjerna - CORE"/>
+                <entry key="207" type="xstring" value="93230 - Karlstad Aut - CORE"/>
+                <entry key="208" type="xstring" value="93220 - Karlstad Flygplats - CORE"/>
+                <entry key="209" type="xstring" value="188820 - Katterjåkk - CORE"/>
+                <entry key="210" type="xstring" value="188850 - Katterjåkk A - CORE"/>
+                <entry key="211" type="xstring" value="189780 - Kattuvuoma - CORE"/>
+                <entry key="212" type="xstring" value="106160 - Kerstinbo A - CORE"/>
+                <entry key="213" type="xstring" value="85460 - Kettstaka A - CORE"/>
+                <entry key="214" type="xstring" value="94190 - Kilsbergen-Suttarboda A - CORE"/>
+                <entry key="215" type="xstring" value="12000 - Kinvsåsen - ADDITIONAL"/>
+                <entry key="216" type="xstring" value="180940 - Kiruna Flygplats - CORE"/>
+                <entry key="217" type="xstring" value="155770 - Kittelfjäll - CORE"/>
+                <entry key="218" type="xstring" value="154720 - Klimpfjäll - CORE"/>
+                <entry key="219" type="xstring" value="95540 - Kloten A - CORE"/>
+                <entry key="220" type="xstring" value="150640 - Klutmark - CORE"/>
+                <entry key="221" type="xstring" value="124320 - Klövsjö - CORE"/>
+                <entry key="222" type="xstring" value="124300 - Klövsjöhöjden A - CORE"/>
+                <entry key="223" type="xstring" value="86420 - Kolmården-Strömsfors A - CORE"/>
+                <entry key="224" type="xstring" value="182720 - Kompelusvaara - CORE"/>
+                <entry key="225" type="xstring" value="173960 - Korpilombolo M - CORE"/>
+                <entry key="226" type="xstring" value="133500 - Korsvattnet A - CORE"/>
+                <entry key="227" type="xstring" value="65510 - Kosta - CORE"/>
+                <entry key="228" type="xstring" value="137040 - Kramfors-Gistgårdsön - CORE"/>
+                <entry key="229" type="xstring" value="64030 - Kristianstad - CORE"/>
+                <entry key="230" type="xstring" value="54550 - Kristianstad Everöd - CORE"/>
+                <entry key="231" type="xstring" value="82360 - Kroppefjäll-Granan A - CORE"/>
+                <entry key="232" type="xstring" value="136090 - Krångede A - CORE"/>
+                <entry key="233" type="xstring" value="117430 - Kuggören A - CORE"/>
+                <entry key="234" type="xstring" value="62190 - Kullen - CORE"/>
+                <entry key="235" type="xstring" value="85390 - Kvarn - CORE"/>
+                <entry key="236" type="xstring" value="114270 - Kvarnberg - CORE"/>
+                <entry key="237" type="xstring" value="167980 - Kvikkjokk-Årrenjarka - CORE"/>
+                <entry key="238" type="xstring" value="167990 - Kvikkjokk-Årrenjarka A - CORE"/>
+                <entry key="239" type="xstring" value="83660 - Kvänum - CORE"/>
+                <entry key="240" type="xstring" value="11039 - Källstorp - ADDITIONAL"/>
+                <entry key="241" type="xstring" value="85650 - Kärnskogen - CORE"/>
+                <entry key="242" type="xstring" value="21041 - Kårböle 2 - ADDITIONAL"/>
+                <entry key="243" type="xstring" value="182930 - Lainio - CORE"/>
+                <entry key="244" type="xstring" value="171790 - Lakaträsk A - CORE"/>
+                <entry key="245" type="xstring" value="87450 - Landsort - CORE"/>
+                <entry key="246" type="xstring" value="87440 - Landsort A - CORE"/>
+                <entry key="247" type="xstring" value="192710 - Lannavaara - CORE"/>
+                <entry key="248" type="xstring" value="180770 - Latnivaara A - CORE"/>
+                <entry key="249" type="xstring" value="16036 - Lekåsa - ADDITIONAL"/>
+                <entry key="250" type="xstring" value="91620 - Lennartsfors - CORE"/>
+                <entry key="251" type="xstring" value="85250 - Linköping - CORE"/>
+                <entry key="252" type="xstring" value="85240 - Linköping-Malmslätt - CORE"/>
+                <entry key="253" type="xstring" value="126310 - Ljungaverk - CORE"/>
+                <entry key="254" type="xstring" value="63500 - Ljungby - CORE"/>
+                <entry key="255" type="xstring" value="63510 - Ljungby A - CORE"/>
+                <entry key="256" type="xstring" value="63050 - Ljungbyhed - CORE"/>
+                <entry key="257" type="xstring" value="81130 - Ljungskile - CORE"/>
+                <entry key="258" type="xstring" value="123070 - Lofsdalen - CORE"/>
+                <entry key="259" type="xstring" value="162015 - Luleå Sol - ADDITIONAL"/>
+                <entry key="260" type="xstring" value="162860 - Luleå-Kallax Flygplats - CORE"/>
+                <entry key="261" type="xstring" value="53430 - Lund - CORE"/>
+                <entry key="262" type="xstring" value="53440 - Lund LTH - CORE"/>
+                <entry key="263" type="xstring" value="128390 - Lungö A - CORE"/>
+                <entry key="264" type="xstring" value="83460 - Lurö - CORE"/>
+                <entry key="265" type="xstring" value="148330 - Lycksele A - CORE"/>
+                <entry key="266" type="xstring" value="102190 - Lämbacken - CORE"/>
+                <entry key="267" type="xstring" value="83130 - Längjum - CORE"/>
+                <entry key="268" type="xstring" value="127140 - Lörudden - CORE"/>
+                <entry key="269" type="xstring" value="53220 - Maglarp Aut - CORE"/>
+                <entry key="270" type="xstring" value="85040 - Malexander - CORE"/>
+                <entry key="271" type="xstring" value="85050 - Malexander A - CORE"/>
+                <entry key="272" type="xstring" value="180750 - Malmberget - CORE"/>
+                <entry key="273" type="xstring" value="53360 - Malmö - CORE"/>
+                <entry key="274" type="xstring" value="53370 - Malmö 2 - CORE"/>
+                <entry key="275" type="xstring" value="52350 - Malmö A - CORE"/>
+                <entry key="276" type="xstring" value="71002 - Malmö GBG - ADDITIONAL"/>
+                <entry key="277" type="xstring" value="53300 - Malmö-Sturup Flygplats - CORE"/>
+                <entry key="278" type="xstring" value="103410 - Malung - CORE"/>
+                <entry key="279" type="xstring" value="103420 - Malung A - CORE"/>
+                <entry key="280" type="xstring" value="158740 - Malå-Brännan A - CORE"/>
+                <entry key="281" type="xstring" value="85520 - Mariedamm - CORE"/>
+                <entry key="282" type="xstring" value="63280 - Markaryd - CORE"/>
+                <entry key="283" type="xstring" value="166910 - Mierkenis A - CORE"/>
+                <entry key="284" type="xstring" value="104300 - Mockfjärd - CORE"/>
+                <entry key="285" type="xstring" value="93360 - Molkom - CORE"/>
+                <entry key="286" type="xstring" value="73570 - Molla - CORE"/>
+                <entry key="287" type="xstring" value="104580 - Mora A - CORE"/>
+                <entry key="288" type="xstring" value="77170 - Mossen - CORE"/>
+                <entry key="289" type="xstring" value="73560 - Mullsjö - CORE"/>
+                <entry key="290" type="xstring" value="183980 - Muodoslompolo - CORE"/>
+                <entry key="291" type="xstring" value="160790 - Myrheden - CORE"/>
+                <entry key="292" type="xstring" value="75240 - Målilla - CORE"/>
+                <entry key="293" type="xstring" value="75250 - Målilla A - CORE"/>
+                <entry key="294" type="xstring" value="81060 - Måseskär - CORE"/>
+                <entry key="295" type="xstring" value="81050 - Måseskär A - CORE"/>
+                <entry key="296" type="xstring" value="133190 - Mörsil - CORE"/>
+                <entry key="297" type="xstring" value="191900 - Naimakka - CORE"/>
+                <entry key="298" type="xstring" value="191910 - Naimakka A - CORE"/>
+                <entry key="299" type="xstring" value="172680 - Naisheden - CORE"/>
+                <entry key="300" type="xstring" value="170930 - Nattavaara A - CORE"/>
+                <entry key="301" type="xstring" value="171920 - Nattavaara by - CORE"/>
+                <entry key="302" type="xstring" value="83420 - Naven A - CORE"/>
+                <entry key="303" type="xstring" value="71190 - Nidingen A - CORE"/>
+                <entry key="304" type="xstring" value="179950 - Nikkaluokta - CORE"/>
+                <entry key="305" type="xstring" value="179960 - Nikkaluokta A - CORE"/>
+                <entry key="306" type="xstring" value="114630 - Noppikoski - CORE"/>
+                <entry key="307" type="xstring" value="134090 - Norderön - CORE"/>
+                <entry key="308" type="xstring" value="81540 - Nordkoster A - CORE"/>
+                <entry key="309" type="xstring" value="139340 - Nordmaling - CORE"/>
+                <entry key="310" type="xstring" value="86360 - Norrköping - CORE"/>
+                <entry key="311" type="xstring" value="86350 - Norrköping-Kungsängen - CORE"/>
+                <entry key="312" type="xstring" value="86340 - Norrköping-SMHI - CORE"/>
+                <entry key="313" type="xstring" value="86370 - Norrköping-Sörby - CORE"/>
+                <entry key="314" type="xstring" value="98460 - Norrtälje 2 - CORE"/>
+                <entry key="315" type="xstring" value="98510 - Norrtälje-Väsby - CORE"/>
+                <entry key="316" type="xstring" value="145260 - Norråker - CORE"/>
+                <entry key="317" type="xstring" value="149540 - Norsjö - CORE"/>
+                <entry key="318" type="xstring" value="149560 - Norsjö A - CORE"/>
+                <entry key="319" type="xstring" value="86480 - Nyköpings Flygplats - CORE"/>
+                <entry key="320" type="xstring" value="74390 - Nässjö - CORE"/>
+                <entry key="321" type="xstring" value="78040 - Näsudden Aut - CORE"/>
+                <entry key="322" type="xstring" value="134610 - Ope - CORE"/>
+                <entry key="323" type="xstring" value="107220 - Orrskog - CORE"/>
+                <entry key="324" type="xstring" value="63220 - Osby - CORE"/>
+                <entry key="325" type="xstring" value="52360 - Oskarsgrundet Aut - CORE"/>
+                <entry key="326" type="xstring" value="172940 - Paharova A - CORE"/>
+                <entry key="327" type="xstring" value="183760 - Pajala - CORE"/>
+                <entry key="328" type="xstring" value="183750 - Pajala A - CORE"/>
+                <entry key="329" type="xstring" value="182910 - Parkalompolo A - CORE"/>
+                <entry key="330" type="xstring" value="11001 - Perstorp - ADDITIONAL"/>
+                <entry key="331" type="xstring" value="149340 - Petisträsk A - CORE"/>
+                <entry key="332" type="xstring" value="161710 - Pite-Rönnskär A - CORE"/>
+                <entry key="333" type="xstring" value="161790 - Piteå - CORE"/>
+                <entry key="334" type="xstring" value="161770 - Pitsund - CORE"/>
+                <entry key="335" type="xstring" value="83450 - Pålgrunden A - CORE"/>
+                <entry key="336" type="xstring" value="171820 - Pålkem M - CORE"/>
+                <entry key="337" type="xstring" value="169930 - Randijaur - CORE"/>
+                <entry key="338" type="xstring" value="189720 - Rensjön A - CORE"/>
+                <entry key="339" type="xstring" value="95490 - Riddarhyttan - CORE"/>
+                <entry key="340" type="xstring" value="188830 - Riksgränsen - CORE"/>
+                <entry key="341" type="xstring" value="72160 - Ringhals Aut - CORE"/>
+                <entry key="342" type="xstring" value="64600 - Rinkaby - CORE"/>
+                <entry key="343" type="xstring" value="86570 - Ripsa - CORE"/>
+                <entry key="344" type="xstring" value="177920 - Ritsem - CORE"/>
+                <entry key="345" type="xstring" value="177930 - Ritsem A - CORE"/>
+                <entry key="346" type="xstring" value="65160 - Ronneby-Bredåkra - CORE"/>
+                <entry key="347" type="xstring" value="64620 - Ryd - CORE"/>
+                <entry key="348" type="xstring" value="73480 - Rångedala A - CORE"/>
+                <entry key="349" type="xstring" value="162790 - Rödkallen A - CORE"/>
+                <entry key="350" type="xstring" value="112080 - Rörbäcksnäs - CORE"/>
+                <entry key="351" type="xstring" value="182810 - Saittarova A - CORE"/>
+                <entry key="352" type="xstring" value="96560 - Sala A - CORE"/>
+                <entry key="353" type="xstring" value="178680 - Saltoluokta - CORE"/>
+                <entry key="354" type="xstring" value="54230 - Sandhammaren - CORE"/>
+                <entry key="355" type="xstring" value="98170 - Sandhamn - CORE"/>
+                <entry key="356" type="xstring" value="25075 - Seskarö - ADDITIONAL"/>
+                <entry key="357" type="xstring" value="54330 - Simrishamn - CORE"/>
+                <entry key="358" type="xstring" value="108100 - Singö - CORE"/>
+                <entry key="359" type="xstring" value="139630 - Skag - CORE"/>
+                <entry key="360" type="xstring" value="139110 - Skagsudde - CORE"/>
+                <entry key="361" type="xstring" value="139120 - Skagsudde A - CORE"/>
+                <entry key="362" type="xstring" value="83270 - Skara - CORE"/>
+                <entry key="363" type="xstring" value="83240 - Skara-Ekeberg - CORE"/>
+                <entry key="364" type="xstring" value="83200 - Skara-Stenum - CORE"/>
+                <entry key="365" type="xstring" value="83260 - Skara-Västerskog - CORE"/>
+                <entry key="366" type="xstring" value="98160 - Skarpö A - CORE"/>
+                <entry key="367" type="xstring" value="150450 - Skellefteå - CORE"/>
+                <entry key="368" type="xstring" value="151380 - Skellefteå Flygplats - CORE"/>
+                <entry key="369" type="xstring" value="54290 - Skillinge A - CORE"/>
+                <entry key="370" type="xstring" value="14013 - Skulltorpsmotet - ADDITIONAL"/>
+                <entry key="371" type="xstring" value="11018 - Skättilljunga - ADDITIONAL"/>
+                <entry key="372" type="xstring" value="124390 - Skålan - CORE"/>
+                <entry key="373" type="xstring" value="63230 - Skånes Fagerhult - CORE"/>
+                <entry key="374" type="xstring" value="53200 - Smygehuk - CORE"/>
+                <entry key="375" type="xstring" value="81220 - Smögen - CORE"/>
+                <entry key="376" type="xstring" value="84580 - Snavlunda - CORE"/>
+                <entry key="377" type="xstring" value="137100 - Sollefteå - CORE"/>
+                <entry key="378" type="xstring" value="88580 - Stabbo - CORE"/>
+                <entry key="379" type="xstring" value="86440 - Stavsjö Aut - CORE"/>
+                <entry key="380" type="xstring" value="154730 - Stekenjokk A - CORE"/>
+                <entry key="381" type="xstring" value="157720 - Stensele - CORE"/>
+                <entry key="382" type="xstring" value="54400 - Stenshuvud - CORE"/>
+                <entry key="383" type="xstring" value="167860 - Stenudden - CORE"/>
+                <entry key="384" type="xstring" value="97400 - Stockholm-Arlanda Flygplats - CORE"/>
+                <entry key="385" type="xstring" value="97200 - Stockholm-Bromma Flygplats - CORE"/>
+                <entry key="386" type="xstring" value="98210 - Stockholm-Observatoriekullen - CORE"/>
+                <entry key="387" type="xstring" value="98230 - Stockholm-Observatoriekullen A - CORE"/>
+                <entry key="388" type="xstring" value="77180 - Stora Karlsö - CORE"/>
+                <entry key="389" type="xstring" value="178860 - Stora Sjöfallet A - CORE"/>
+                <entry key="390" type="xstring" value="105220 - Stora Spånsberget A - CORE"/>
+                <entry key="391" type="xstring" value="133570 - Stora Stensjön Aut - CORE"/>
+                <entry key="392" type="xstring" value="158850 - Storberg - CORE"/>
+                <entry key="393" type="xstring" value="112530 - Storbo V - CORE"/>
+                <entry key="394" type="xstring" value="113610 - Storfjället-Sälen - CORE"/>
+                <entry key="395" type="xstring" value="8027 - Storgöl - ADDITIONAL"/>
+                <entry key="396" type="xstring" value="117610 - Storjungfrun - CORE"/>
+                <entry key="397" type="xstring" value="149570 - Storliden - CORE"/>
+                <entry key="398" type="xstring" value="132620 - Storlien - CORE"/>
+                <entry key="399" type="xstring" value="132170 - Storlien-Storvallen A - CORE"/>
+                <entry key="400" type="xstring" value="132180 - Storlien-Visjövalen - CORE"/>
+                <entry key="401" type="xstring" value="23058 - Storlien2 - ADDITIONAL"/>
+                <entry key="402" type="xstring" value="123480 - Storsjö Kapell - CORE"/>
+                <entry key="403" type="xstring" value="163920 - Storöhamn - CORE"/>
+                <entry key="404" type="xstring" value="163900 - Storön A - CORE"/>
+                <entry key="405" type="xstring" value="81560 - Strömstad - CORE"/>
+                <entry key="406" type="xstring" value="135520 - Strömsund - CORE"/>
+                <entry key="407" type="xstring" value="94580 - Ställdalen - CORE"/>
+                <entry key="408" type="xstring" value="94660 - Stångfallet - CORE"/>
+                <entry key="409" type="xstring" value="159970 - Suddesjaur - CORE"/>
+                <entry key="410" type="xstring" value="170790 - Sudok - CORE"/>
+                <entry key="411" type="xstring" value="127240 - Sundsvall - CORE"/>
+                <entry key="412" type="xstring" value="127310 - Sundsvall-Timrå Flygplats - CORE"/>
+                <entry key="413" type="xstring" value="93520 - Sunne A - CORE"/>
+                <entry key="414" type="xstring" value="93340 - Sutterhöjden - CORE"/>
+                <entry key="415" type="xstring" value="98490 - Svanberga A - CORE"/>
+                <entry key="416" type="xstring" value="25060 - Svappavaara 2 - ADDITIONAL"/>
+                <entry key="417" type="xstring" value="81340 - Svarteborg - CORE"/>
+                <entry key="418" type="xstring" value="124020 - Sveg - CORE"/>
+                <entry key="419" type="xstring" value="124030 - Sveg A - CORE"/>
+                <entry key="420" type="xstring" value="99270 - Svenska Högarna - CORE"/>
+                <entry key="421" type="xstring" value="99280 - Svenska Högarna A - CORE"/>
+                <entry key="422" type="xstring" value="140200 - Sydostbrotten Aut - CORE"/>
+                <entry key="423" type="xstring" value="132030 - Sylarna A - CORE"/>
+                <entry key="424" type="xstring" value="113410 - Särna - CORE"/>
+                <entry key="425" type="xstring" value="25009 - Sävastön - ADDITIONAL"/>
+                <entry key="426" type="xstring" value="71470 - Säve - CORE"/>
+                <entry key="427" type="xstring" value="72001 - Sävenäs GBG - ADDITIONAL"/>
+                <entry key="428" type="xstring" value="82260 - Såtenäs - CORE"/>
+                <entry key="429" type="xstring" value="99450 - Söderarm A - CORE"/>
+                <entry key="430" type="xstring" value="117160 - Söderhamn A - CORE"/>
+                <entry key="431" type="xstring" value="113110 - Tandådalen Aut - CORE"/>
+                <entry key="432" type="xstring" value="178970 - Tarfala A - CORE"/>
+                <entry key="433" type="xstring" value="73660 - Tinghalla - CORE"/>
+                <entry key="434" type="xstring" value="169790 - Tjåkaape - CORE"/>
+                <entry key="435" type="xstring" value="74300 - Tomtabacken A - CORE"/>
+                <entry key="436" type="xstring" value="188840 - Tornehamn Aut - CORE"/>
+                <entry key="437" type="xstring" value="189760 - Torneträsk - CORE"/>
+                <entry key="438" type="xstring" value="126290 - Torpshammar A - CORE"/>
+                <entry key="439" type="xstring" value="71430 - Torslanda - CORE"/>
+                <entry key="440" type="xstring" value="16035 - Torsöbron V - ADDITIONAL"/>
+                <entry key="441" type="xstring" value="63600 - Torup - CORE"/>
+                <entry key="442" type="xstring" value="63590 - Torup A - CORE"/>
+                <entry key="443" type="xstring" value="85020 - Tranås Aut - CORE"/>
+                <entry key="444" type="xstring" value="71003 - Trelleborg GBG - ADDITIONAL"/>
+                <entry key="445" type="xstring" value="133160 - Trillevallen V - CORE"/>
+                <entry key="446" type="xstring" value="82190 - Trollhättans Flygplats - CORE"/>
+                <entry key="447" type="xstring" value="71360 - Trubaduren Aut - CORE"/>
+                <entry key="448" type="xstring" value="97100 - Tullinge A - CORE"/>
+                <entry key="449" type="xstring" value="86010 - Tyllinge - CORE"/>
+                <entry key="450" type="xstring" value="122260 - Tännäs A - CORE"/>
+                <entry key="451" type="xstring" value="155910 - Tärnaby - CORE"/>
+                <entry key="452" type="xstring" value="17045 - Töcksfors - ADDITIONAL"/>
+                <entry key="453" type="xstring" value="72090 - Ullared A - CORE"/>
+                <entry key="454" type="xstring" value="73470 - Ulricehamn - CORE"/>
+                <entry key="455" type="xstring" value="64650 - Ulvö - CORE"/>
+                <entry key="456" type="xstring" value="140500 - Umeå - CORE"/>
+                <entry key="457" type="xstring" value="140480 - Umeå Flygplats - CORE"/>
+                <entry key="458" type="xstring" value="108170 - Understen - CORE"/>
+                <entry key="459" type="xstring" value="65020 - Ungskär - CORE"/>
+                <entry key="460" type="xstring" value="97520 - Uppsala - CORE"/>
+                <entry key="461" type="xstring" value="97510 - Uppsala Aut - CORE"/>
+                <entry key="462" type="xstring" value="97530 - Uppsala Flygplats - CORE"/>
+                <entry key="463" type="xstring" value="64400 - Uråsa - CORE"/>
+                <entry key="464" type="xstring" value="55570 - Utklippan A - CORE"/>
+                <entry key="465" type="xstring" value="95640 - Uttersberg - CORE"/>
+                <entry key="466" type="xstring" value="107450 - Utvalnäs Aut - CORE"/>
+                <entry key="467" type="xstring" value="88570 - Utö - CORE"/>
+                <entry key="468" type="xstring" value="15060 - V Horred - ADDITIONAL"/>
+                <entry key="469" type="xstring" value="86130 - Valdemarsvik - CORE"/>
+                <entry key="470" type="xstring" value="19024 - Vallbymotet - ADDITIONAL"/>
+                <entry key="471" type="xstring" value="72080 - Varberg - CORE"/>
+                <entry key="472" type="xstring" value="2021 - Vassijaure Aut - ADDITIONAL"/>
+                <entry key="473" type="xstring" value="52550 - Ven - CORE"/>
+                <entry key="474" type="xstring" value="160960 - Vidsel - CORE"/>
+                <entry key="475" type="xstring" value="160970 - Vidsel - CORE"/>
+                <entry key="476" type="xstring" value="137030 - Viksbäcken - CORE"/>
+                <entry key="477" type="xstring" value="107020 - Viksta - CORE"/>
+                <entry key="478" type="xstring" value="146350 - Vilhelmina A - CORE"/>
+                <entry key="479" type="xstring" value="94170 - Villingsberg - CORE"/>
+                <entry key="480" type="xstring" value="156940 - Vindel-Björkheden - CORE"/>
+                <entry key="481" type="xstring" value="157930 - Vindel-Storsjö - CORE"/>
+                <entry key="482" type="xstring" value="149120 - Vindeln-Sunnansjönäs - CORE"/>
+                <entry key="483" type="xstring" value="71380 - Vinga A - CORE"/>
+                <entry key="484" type="xstring" value="95030 - Vingåker - CORE"/>
+                <entry key="485" type="xstring" value="106500 - Vintjärn - CORE"/>
+                <entry key="486" type="xstring" value="78390 - Visby - CORE"/>
+                <entry key="487" type="xstring" value="78400 - Visby Flygplats - CORE"/>
+                <entry key="488" type="xstring" value="84060 - Visingsö - CORE"/>
+                <entry key="489" type="xstring" value="84050 - Visingsö A - CORE"/>
+                <entry key="490" type="xstring" value="65310 - Vissefjärda - CORE"/>
+                <entry key="491" type="xstring" value="11031 - Visseltofta - ADDITIONAL"/>
+                <entry key="492" type="xstring" value="25061 - Vittangi - ADDITIONAL"/>
+                <entry key="493" type="xstring" value="166870 - Vuoggatjålme - CORE"/>
+                <entry key="494" type="xstring" value="81350 - Väderöarna A - CORE"/>
+                <entry key="495" type="xstring" value="81620 - Väderöbod - CORE"/>
+                <entry key="496" type="xstring" value="82230 - Vänersborg - CORE"/>
+                <entry key="497" type="xstring" value="97620 - Vängsö - CORE"/>
+                <entry key="498" type="xstring" value="139540 - Vännäs - CORE"/>
+                <entry key="499" type="xstring" value="83340 - Västerplana - CORE"/>
+                <entry key="500" type="xstring" value="76470 - Västervik - CORE"/>
+                <entry key="501" type="xstring" value="96350 - Västerås - CORE"/>
+                <entry key="502" type="xstring" value="75003 - Västerås västra GBG - ADDITIONAL"/>
+                <entry key="503" type="xstring" value="96370 - Västerås-Hässlö - CORE"/>
+                <entry key="504" type="xstring" value="138070 - Västmarkum A - CORE"/>
+                <entry key="505" type="xstring" value="107530 - Västra Banken Aut - CORE"/>
+                <entry key="506" type="xstring" value="64520 - Växjö - CORE"/>
+                <entry key="507" type="xstring" value="64510 - Växjö A - CORE"/>
+                <entry key="508" type="xstring" value="64560 - Växjö-Kronoberg - CORE"/>
+                <entry key="509" type="xstring" value="82010 - Vårgårda-Hägrunga - CORE"/>
+                <entry key="510" type="xstring" value="173900 - Ylinenjärvi A - CORE"/>
+                <entry key="511" type="xstring" value="53260 - Ystad - CORE"/>
+                <entry key="512" type="xstring" value="22046 - Ytterturingen2 - ADDITIONAL"/>
+                <entry key="513" type="xstring" value="85490 - Zinkgruvan - CORE"/>
+                <entry key="514" type="xstring" value="114150 - Älvdalen 1 - CORE"/>
+                <entry key="515" type="xstring" value="114160 - Älvdalen 2 - CORE"/>
+                <entry key="516" type="xstring" value="114140 - Älvdalen A - CORE"/>
+                <entry key="517" type="xstring" value="94560 - Älvhöjden - CORE"/>
+                <entry key="518" type="xstring" value="161910 - Älvsbyn A - CORE"/>
+                <entry key="519" type="xstring" value="62180 - Ängelholm-Barkåkra Flygplats - CORE"/>
+                <entry key="520" type="xstring" value="73690 - Äspered - CORE"/>
+                <entry key="521" type="xstring" value="83540 - Åkershus - CORE"/>
+                <entry key="522" type="xstring" value="134520 - Ålåsen - CORE"/>
+                <entry key="523" type="xstring" value="106570 - Åmot A - CORE"/>
+                <entry key="524" type="xstring" value="106580 - Åmotsbruk - CORE"/>
+                <entry key="525" type="xstring" value="92030 - Åmål - CORE"/>
+                <entry key="526" type="xstring" value="76001 - Ånge GBG - ADDITIONAL"/>
+                <entry key="527" type="xstring" value="133230 - Åre - CORE"/>
+                <entry key="528" type="xstring" value="133260 - Åreskutan Aut - CORE"/>
+                <entry key="529" type="xstring" value="147100 - Åsele - CORE"/>
+                <entry key="530" type="xstring" value="147090 - Åsele A - CORE"/>
+                <entry key="531" type="xstring" value="94050 - Åtorp - CORE"/>
+                <entry key="532" type="xstring" value="82650 - Ödebyn - CORE"/>
+                <entry key="533" type="xstring" value="82660 - Ödskölt - CORE"/>
+                <entry key="534" type="xstring" value="77220 - Ölands norra udde - CORE"/>
+                <entry key="535" type="xstring" value="77210 - Ölands norra udde A - CORE"/>
+                <entry key="536" type="xstring" value="66040 - Ölands södra grund Aut - CORE"/>
+                <entry key="537" type="xstring" value="66120 - Ölands södra udde - CORE"/>
+                <entry key="538" type="xstring" value="66110 - Ölands södra udde A - CORE"/>
+                <entry key="539" type="xstring" value="84260 - Örberga - CORE"/>
+                <entry key="540" type="xstring" value="72290 - Örby - CORE"/>
+                <entry key="541" type="xstring" value="95170 - Örebro Aut - CORE"/>
+                <entry key="542" type="xstring" value="95130 - Örebro Flygplats - CORE"/>
+                <entry key="543" type="xstring" value="95160 - Örebro-Ekeby - CORE"/>
+                <entry key="544" type="xstring" value="108640 - Öregrund - CORE"/>
+                <entry key="545" type="xstring" value="52510 - Örja Aut - CORE"/>
+                <entry key="546" type="xstring" value="138240 - Örnsköldsviks Flygplats - CORE"/>
+                <entry key="547" type="xstring" value="108320 - Örskär A - CORE"/>
+                <entry key="548" type="xstring" value="78280 - Östergarnsholm A - CORE"/>
+                <entry key="549" type="xstring" value="134100 - Östersund - CORE"/>
+                <entry key="550" type="xstring" value="134110 - Östersund-Frösön Flygplats - CORE"/>
+                <entry key="551" type="xstring" value="102200 - Östmark-Rännberg - CORE"/>
+                <entry key="552" type="xstring" value="102210 - Östmark-Röjdåsen - CORE"/>
+                <entry key="553" type="xstring" value="172790 - Överkalix-Svartbyn - CORE"/>
+                <entry key="554" type="xstring" value="172770 - Överkalix-Svartbyn A - CORE"/>
+                <entry key="555" type="xstring" value="173810 - Övertorneå - CORE"/>
+            </config>
+        </config>
+        <config key="Variable_5">
+            <entry key="type" type="xstring" value="variable"/>
+            <entry key="name" type="xstring" value="List(id)"/>
+            <entry key="class" type="xstring" value="STRINGARRAY"/>
+            <config key="value">
+                <entry key="array-size" type="xint" value="556"/>
+                <entry key="0" type="xstring" value="154860"/>
+                <entry key="1" type="xstring" value="188790"/>
+                <entry key="2" type="xstring" value="158990"/>
+                <entry key="3" type="xstring" value="97280"/>
+                <entry key="4" type="xstring" value="117330"/>
+                <entry key="5" type="xstring" value="75040"/>
+                <entry key="6" type="xstring" value="99090"/>
+                <entry key="7" type="xstring" value="178790"/>
+                <entry key="8" type="xstring" value="82000"/>
+                <entry key="9" type="xstring" value="73250"/>
+                <entry key="10" type="xstring" value="11046"/>
+                <entry key="11" type="xstring" value="144530"/>
+                <entry key="12" type="xstring" value="167710"/>
+                <entry key="13" type="xstring" value="97390"/>
+                <entry key="14" type="xstring" value="159880"/>
+                <entry key="15" type="xstring" value="92400"/>
+                <entry key="16" type="xstring" value="92410"/>
+                <entry key="17" type="xstring" value="84660"/>
+                <entry key="18" type="xstring" value="94370"/>
+                <entry key="19" type="xstring" value="84340"/>
+                <entry key="20" type="xstring" value="105550"/>
+                <entry key="21" type="xstring" value="97260"/>
+                <entry key="22" type="xstring" value="82540"/>
+                <entry key="23" type="xstring" value="98040"/>
+                <entry key="24" type="xstring" value="116650"/>
+                <entry key="25" type="xstring" value="151290"/>
+                <entry key="26" type="xstring" value="151280"/>
+                <entry key="27" type="xstring" value="53650"/>
+                <entry key="28" type="xstring" value="142030"/>
+                <entry key="29" type="xstring" value="107040"/>
+                <entry key="30" type="xstring" value="83640"/>
+                <entry key="31" type="xstring" value="92170"/>
+                <entry key="32" type="xstring" value="92130"/>
+                <entry key="33" type="xstring" value="132110"/>
+                <entry key="34" type="xstring" value="161940"/>
+                <entry key="35" type="xstring" value="83170"/>
+                <entry key="36" type="xstring" value="105310"/>
+                <entry key="37" type="xstring" value="105280"/>
+                <entry key="38" type="xstring" value="105260"/>
+                <entry key="39" type="xstring" value="75002"/>
+                <entry key="40" type="xstring" value="72450"/>
+                <entry key="41" type="xstring" value="5032"/>
+                <entry key="42" type="xstring" value="138270"/>
+                <entry key="43" type="xstring" value="127130"/>
+                <entry key="44" type="xstring" value="145450"/>
+                <entry key="45" type="xstring" value="157870"/>
+                <entry key="46" type="xstring" value="78240"/>
+                <entry key="47" type="xstring" value="133030"/>
+                <entry key="48" type="xstring" value="84620"/>
+                <entry key="49" type="xstring" value="136610"/>
+                <entry key="50" type="xstring" value="123460"/>
+                <entry key="51" type="xstring" value="94390"/>
+                <entry key="52" type="xstring" value="73430"/>
+                <entry key="53" type="xstring" value="107120"/>
+                <entry key="54" type="xstring" value="116480"/>
+                <entry key="55" type="xstring" value="116490"/>
+                <entry key="56" type="xstring" value="156770"/>
+                <entry key="57" type="xstring" value="156790"/>
+                <entry key="58" type="xstring" value="105640"/>
+                <entry key="59" type="xstring" value="123060"/>
+                <entry key="60" type="xstring" value="96120"/>
+                <entry key="61" type="xstring" value="132590"/>
+                <entry key="62" type="xstring" value="115230"/>
+                <entry key="63" type="xstring" value="115220"/>
+                <entry key="64" type="xstring" value="107440"/>
+                <entry key="65" type="xstring" value="74380"/>
+                <entry key="66" type="xstring" value="65360"/>
+                <entry key="67" type="xstring" value="97370"/>
+                <entry key="68" type="xstring" value="82380"/>
+                <entry key="69" type="xstring" value="96230"/>
+                <entry key="70" type="xstring" value="96190"/>
+                <entry key="71" type="xstring" value="181970"/>
+                <entry key="72" type="xstring" value="63470"/>
+                <entry key="73" type="xstring" value="86090"/>
+                <entry key="74" type="xstring" value="52230"/>
+                <entry key="75" type="xstring" value="52240"/>
+                <entry key="76" type="xstring" value="105370"/>
+                <entry key="77" type="xstring" value="162800"/>
+                <entry key="78" type="xstring" value="95320"/>
+                <entry key="79" type="xstring" value="63650"/>
+                <entry key="80" type="xstring" value="107140"/>
+                <entry key="81" type="xstring" value="107130"/>
+                <entry key="82" type="xstring" value="125020"/>
+                <entry key="83" type="xstring" value="85410"/>
+                <entry key="84" type="xstring" value="122360"/>
+                <entry key="85" type="xstring" value="71130"/>
+                <entry key="86" type="xstring" value="96040"/>
+                <entry key="87" type="xstring" value="112510"/>
+                <entry key="88" type="xstring" value="106100"/>
+                <entry key="89" type="xstring" value="23059"/>
+                <entry key="90" type="xstring" value="148050"/>
+                <entry key="91" type="xstring" value="148040"/>
+                <entry key="92" type="xstring" value="126300"/>
+                <entry key="93" type="xstring" value="63530"/>
+                <entry key="94" type="xstring" value="151550"/>
+                <entry key="95" type="xstring" value="84390"/>
+                <entry key="96" type="xstring" value="160750"/>
+                <entry key="97" type="xstring" value="160740"/>
+                <entry key="98" type="xstring" value="79580"/>
+                <entry key="99" type="xstring" value="79520"/>
+                <entry key="100" type="xstring" value="78550"/>
+                <entry key="101" type="xstring" value="134410"/>
+                <entry key="102" type="xstring" value="134460"/>
+                <entry key="103" type="xstring" value="22051"/>
+                <entry key="104" type="xstring" value="82110"/>
+                <entry key="105" type="xstring" value="155790"/>
+                <entry key="106" type="xstring" value="135640"/>
+                <entry key="107" type="xstring" value="76420"/>
+                <entry key="108" type="xstring" value="62550"/>
+                <entry key="109" type="xstring" value="89240"/>
+                <entry key="110" type="xstring" value="89230"/>
+                <entry key="111" type="xstring" value="127600"/>
+                <entry key="112" type="xstring" value="108300"/>
+                <entry key="113" type="xstring" value="84610"/>
+                <entry key="114" type="xstring" value="20044"/>
+                <entry key="115" type="xstring" value="99150"/>
+                <entry key="116" type="xstring" value="122610"/>
+                <entry key="117" type="xstring" value="145130"/>
+                <entry key="118" type="xstring" value="147570"/>
+                <entry key="119" type="xstring" value="147560"/>
+                <entry key="120" type="xstring" value="87360"/>
+                <entry key="121" type="xstring" value="103090"/>
+                <entry key="122" type="xstring" value="103100"/>
+                <entry key="123" type="xstring" value="144300"/>
+                <entry key="124" type="xstring" value="144310"/>
+                <entry key="125" type="xstring" value="180760"/>
+                <entry key="126" type="xstring" value="180740"/>
+                <entry key="127" type="xstring" value="75001"/>
+                <entry key="128" type="xstring" value="107400"/>
+                <entry key="129" type="xstring" value="107420"/>
+                <entry key="130" type="xstring" value="84520"/>
+                <entry key="131" type="xstring" value="71420"/>
+                <entry key="132" type="xstring" value="72420"/>
+                <entry key="133" type="xstring" value="74180"/>
+                <entry key="134" type="xstring" value="62260"/>
+                <entry key="135" type="xstring" value="135460"/>
+                <entry key="136" type="xstring" value="75004"/>
+                <entry key="137" type="xstring" value="135440"/>
+                <entry key="138" type="xstring" value="62400"/>
+                <entry key="139" type="xstring" value="62410"/>
+                <entry key="140" type="xstring" value="62420"/>
+                <entry key="141" type="xstring" value="114410"/>
+                <entry key="142" type="xstring" value="62530"/>
+                <entry key="143" type="xstring" value="64020"/>
+                <entry key="144" type="xstring" value="163950"/>
+                <entry key="145" type="xstring" value="163960"/>
+                <entry key="146" type="xstring" value="170670"/>
+                <entry key="147" type="xstring" value="161780"/>
+                <entry key="148" type="xstring" value="87150"/>
+                <entry key="149" type="xstring" value="87140"/>
+                <entry key="150" type="xstring" value="161650"/>
+                <entry key="151" type="xstring" value="62030"/>
+                <entry key="152" type="xstring" value="62040"/>
+                <entry key="153" type="xstring" value="71001"/>
+                <entry key="154" type="xstring" value="155940"/>
+                <entry key="155" type="xstring" value="155970"/>
+                <entry key="156" type="xstring" value="155960"/>
+                <entry key="157" type="xstring" value="138390"/>
+                <entry key="158" type="xstring" value="78250"/>
+                <entry key="159" type="xstring" value="73230"/>
+                <entry key="160" type="xstring" value="68550"/>
+                <entry key="161" type="xstring" value="68560"/>
+                <entry key="162" type="xstring" value="140360"/>
+                <entry key="163" type="xstring" value="140460"/>
+                <entry key="164" type="xstring" value="75520"/>
+                <entry key="165" type="xstring" value="8006"/>
+                <entry key="166" type="xstring" value="146050"/>
+                <entry key="167" type="xstring" value="11044"/>
+                <entry key="168" type="xstring" value="75410"/>
+                <entry key="169" type="xstring" value="125450"/>
+                <entry key="170" type="xstring" value="125440"/>
+                <entry key="171" type="xstring" value="98290"/>
+                <entry key="172" type="xstring" value="88590"/>
+                <entry key="173" type="xstring" value="89560"/>
+                <entry key="174" type="xstring" value="149160"/>
+                <entry key="175" type="xstring" value="83190"/>
+                <entry key="176" type="xstring" value="128370"/>
+                <entry key="177" type="xstring" value="127380"/>
+                <entry key="178" type="xstring" value="63160"/>
+                <entry key="179" type="xstring" value="6057"/>
+                <entry key="180" type="xstring" value="81630"/>
+                <entry key="181" type="xstring" value="91520"/>
+                <entry key="182" type="xstring" value="145340"/>
+                <entry key="183" type="xstring" value="83610"/>
+                <entry key="184" type="xstring" value="91660"/>
+                <entry key="185" type="xstring" value="117370"/>
+                <entry key="186" type="xstring" value="53530"/>
+                <entry key="187" type="xstring" value="112540"/>
+                <entry key="188" type="xstring" value="147270"/>
+                <entry key="189" type="xstring" value="169880"/>
+                <entry key="190" type="xstring" value="170860"/>
+                <entry key="191" type="xstring" value="136420"/>
+                <entry key="192" type="xstring" value="136410"/>
+                <entry key="193" type="xstring" value="139260"/>
+                <entry key="194" type="xstring" value="74470"/>
+                <entry key="195" type="xstring" value="73001"/>
+                <entry key="196" type="xstring" value="74460"/>
+                <entry key="197" type="xstring" value="74450"/>
+                <entry key="198" type="xstring" value="163940"/>
+                <entry key="199" type="xstring" value="66430"/>
+                <entry key="200" type="xstring" value="66420"/>
+                <entry key="201" type="xstring" value="168910"/>
+                <entry key="202" type="xstring" value="192830"/>
+                <entry key="203" type="xstring" value="192840"/>
+                <entry key="204" type="xstring" value="84310"/>
+                <entry key="205" type="xstring" value="64130"/>
+                <entry key="206" type="xstring" value="65090"/>
+                <entry key="207" type="xstring" value="93230"/>
+                <entry key="208" type="xstring" value="93220"/>
+                <entry key="209" type="xstring" value="188820"/>
+                <entry key="210" type="xstring" value="188850"/>
+                <entry key="211" type="xstring" value="189780"/>
+                <entry key="212" type="xstring" value="106160"/>
+                <entry key="213" type="xstring" value="85460"/>
+                <entry key="214" type="xstring" value="94190"/>
+                <entry key="215" type="xstring" value="12000"/>
+                <entry key="216" type="xstring" value="180940"/>
+                <entry key="217" type="xstring" value="155770"/>
+                <entry key="218" type="xstring" value="154720"/>
+                <entry key="219" type="xstring" value="95540"/>
+                <entry key="220" type="xstring" value="150640"/>
+                <entry key="221" type="xstring" value="124320"/>
+                <entry key="222" type="xstring" value="124300"/>
+                <entry key="223" type="xstring" value="86420"/>
+                <entry key="224" type="xstring" value="182720"/>
+                <entry key="225" type="xstring" value="173960"/>
+                <entry key="226" type="xstring" value="133500"/>
+                <entry key="227" type="xstring" value="65510"/>
+                <entry key="228" type="xstring" value="137040"/>
+                <entry key="229" type="xstring" value="64030"/>
+                <entry key="230" type="xstring" value="54550"/>
+                <entry key="231" type="xstring" value="82360"/>
+                <entry key="232" type="xstring" value="136090"/>
+                <entry key="233" type="xstring" value="117430"/>
+                <entry key="234" type="xstring" value="62190"/>
+                <entry key="235" type="xstring" value="85390"/>
+                <entry key="236" type="xstring" value="114270"/>
+                <entry key="237" type="xstring" value="167980"/>
+                <entry key="238" type="xstring" value="167990"/>
+                <entry key="239" type="xstring" value="83660"/>
+                <entry key="240" type="xstring" value="11039"/>
+                <entry key="241" type="xstring" value="85650"/>
+                <entry key="242" type="xstring" value="21041"/>
+                <entry key="243" type="xstring" value="182930"/>
+                <entry key="244" type="xstring" value="171790"/>
+                <entry key="245" type="xstring" value="87450"/>
+                <entry key="246" type="xstring" value="87440"/>
+                <entry key="247" type="xstring" value="192710"/>
+                <entry key="248" type="xstring" value="180770"/>
+                <entry key="249" type="xstring" value="16036"/>
+                <entry key="250" type="xstring" value="91620"/>
+                <entry key="251" type="xstring" value="85250"/>
+                <entry key="252" type="xstring" value="85240"/>
+                <entry key="253" type="xstring" value="126310"/>
+                <entry key="254" type="xstring" value="63500"/>
+                <entry key="255" type="xstring" value="63510"/>
+                <entry key="256" type="xstring" value="63050"/>
+                <entry key="257" type="xstring" value="81130"/>
+                <entry key="258" type="xstring" value="123070"/>
+                <entry key="259" type="xstring" value="162015"/>
+                <entry key="260" type="xstring" value="162860"/>
+                <entry key="261" type="xstring" value="53430"/>
+                <entry key="262" type="xstring" value="53440"/>
+                <entry key="263" type="xstring" value="128390"/>
+                <entry key="264" type="xstring" value="83460"/>
+                <entry key="265" type="xstring" value="148330"/>
+                <entry key="266" type="xstring" value="102190"/>
+                <entry key="267" type="xstring" value="83130"/>
+                <entry key="268" type="xstring" value="127140"/>
+                <entry key="269" type="xstring" value="53220"/>
+                <entry key="270" type="xstring" value="85040"/>
+                <entry key="271" type="xstring" value="85050"/>
+                <entry key="272" type="xstring" value="180750"/>
+                <entry key="273" type="xstring" value="53360"/>
+                <entry key="274" type="xstring" value="53370"/>
+                <entry key="275" type="xstring" value="52350"/>
+                <entry key="276" type="xstring" value="71002"/>
+                <entry key="277" type="xstring" value="53300"/>
+                <entry key="278" type="xstring" value="103410"/>
+                <entry key="279" type="xstring" value="103420"/>
+                <entry key="280" type="xstring" value="158740"/>
+                <entry key="281" type="xstring" value="85520"/>
+                <entry key="282" type="xstring" value="63280"/>
+                <entry key="283" type="xstring" value="166910"/>
+                <entry key="284" type="xstring" value="104300"/>
+                <entry key="285" type="xstring" value="93360"/>
+                <entry key="286" type="xstring" value="73570"/>
+                <entry key="287" type="xstring" value="104580"/>
+                <entry key="288" type="xstring" value="77170"/>
+                <entry key="289" type="xstring" value="73560"/>
+                <entry key="290" type="xstring" value="183980"/>
+                <entry key="291" type="xstring" value="160790"/>
+                <entry key="292" type="xstring" value="75240"/>
+                <entry key="293" type="xstring" value="75250"/>
+                <entry key="294" type="xstring" value="81060"/>
+                <entry key="295" type="xstring" value="81050"/>
+                <entry key="296" type="xstring" value="133190"/>
+                <entry key="297" type="xstring" value="191900"/>
+                <entry key="298" type="xstring" value="191910"/>
+                <entry key="299" type="xstring" value="172680"/>
+                <entry key="300" type="xstring" value="170930"/>
+                <entry key="301" type="xstring" value="171920"/>
+                <entry key="302" type="xstring" value="83420"/>
+                <entry key="303" type="xstring" value="71190"/>
+                <entry key="304" type="xstring" value="179950"/>
+                <entry key="305" type="xstring" value="179960"/>
+                <entry key="306" type="xstring" value="114630"/>
+                <entry key="307" type="xstring" value="134090"/>
+                <entry key="308" type="xstring" value="81540"/>
+                <entry key="309" type="xstring" value="139340"/>
+                <entry key="310" type="xstring" value="86360"/>
+                <entry key="311" type="xstring" value="86350"/>
+                <entry key="312" type="xstring" value="86340"/>
+                <entry key="313" type="xstring" value="86370"/>
+                <entry key="314" type="xstring" value="98460"/>
+                <entry key="315" type="xstring" value="98510"/>
+                <entry key="316" type="xstring" value="145260"/>
+                <entry key="317" type="xstring" value="149540"/>
+                <entry key="318" type="xstring" value="149560"/>
+                <entry key="319" type="xstring" value="86480"/>
+                <entry key="320" type="xstring" value="74390"/>
+                <entry key="321" type="xstring" value="78040"/>
+                <entry key="322" type="xstring" value="134610"/>
+                <entry key="323" type="xstring" value="107220"/>
+                <entry key="324" type="xstring" value="63220"/>
+                <entry key="325" type="xstring" value="52360"/>
+                <entry key="326" type="xstring" value="172940"/>
+                <entry key="327" type="xstring" value="183760"/>
+                <entry key="328" type="xstring" value="183750"/>
+                <entry key="329" type="xstring" value="182910"/>
+                <entry key="330" type="xstring" value="11001"/>
+                <entry key="331" type="xstring" value="149340"/>
+                <entry key="332" type="xstring" value="161710"/>
+                <entry key="333" type="xstring" value="161790"/>
+                <entry key="334" type="xstring" value="161770"/>
+                <entry key="335" type="xstring" value="83450"/>
+                <entry key="336" type="xstring" value="171820"/>
+                <entry key="337" type="xstring" value="169930"/>
+                <entry key="338" type="xstring" value="189720"/>
+                <entry key="339" type="xstring" value="95490"/>
+                <entry key="340" type="xstring" value="188830"/>
+                <entry key="341" type="xstring" value="72160"/>
+                <entry key="342" type="xstring" value="64600"/>
+                <entry key="343" type="xstring" value="86570"/>
+                <entry key="344" type="xstring" value="177920"/>
+                <entry key="345" type="xstring" value="177930"/>
+                <entry key="346" type="xstring" value="65160"/>
+                <entry key="347" type="xstring" value="64620"/>
+                <entry key="348" type="xstring" value="73480"/>
+                <entry key="349" type="xstring" value="162790"/>
+                <entry key="350" type="xstring" value="112080"/>
+                <entry key="351" type="xstring" value="182810"/>
+                <entry key="352" type="xstring" value="96560"/>
+                <entry key="353" type="xstring" value="178680"/>
+                <entry key="354" type="xstring" value="54230"/>
+                <entry key="355" type="xstring" value="98170"/>
+                <entry key="356" type="xstring" value="25075"/>
+                <entry key="357" type="xstring" value="54330"/>
+                <entry key="358" type="xstring" value="108100"/>
+                <entry key="359" type="xstring" value="139630"/>
+                <entry key="360" type="xstring" value="139110"/>
+                <entry key="361" type="xstring" value="139120"/>
+                <entry key="362" type="xstring" value="83270"/>
+                <entry key="363" type="xstring" value="83240"/>
+                <entry key="364" type="xstring" value="83200"/>
+                <entry key="365" type="xstring" value="83260"/>
+                <entry key="366" type="xstring" value="98160"/>
+                <entry key="367" type="xstring" value="150450"/>
+                <entry key="368" type="xstring" value="151380"/>
+                <entry key="369" type="xstring" value="54290"/>
+                <entry key="370" type="xstring" value="14013"/>
+                <entry key="371" type="xstring" value="11018"/>
+                <entry key="372" type="xstring" value="124390"/>
+                <entry key="373" type="xstring" value="63230"/>
+                <entry key="374" type="xstring" value="53200"/>
+                <entry key="375" type="xstring" value="81220"/>
+                <entry key="376" type="xstring" value="84580"/>
+                <entry key="377" type="xstring" value="137100"/>
+                <entry key="378" type="xstring" value="88580"/>
+                <entry key="379" type="xstring" value="86440"/>
+                <entry key="380" type="xstring" value="154730"/>
+                <entry key="381" type="xstring" value="157720"/>
+                <entry key="382" type="xstring" value="54400"/>
+                <entry key="383" type="xstring" value="167860"/>
+                <entry key="384" type="xstring" value="97400"/>
+                <entry key="385" type="xstring" value="97200"/>
+                <entry key="386" type="xstring" value="98210"/>
+                <entry key="387" type="xstring" value="98230"/>
+                <entry key="388" type="xstring" value="77180"/>
+                <entry key="389" type="xstring" value="178860"/>
+                <entry key="390" type="xstring" value="105220"/>
+                <entry key="391" type="xstring" value="133570"/>
+                <entry key="392" type="xstring" value="158850"/>
+                <entry key="393" type="xstring" value="112530"/>
+                <entry key="394" type="xstring" value="113610"/>
+                <entry key="395" type="xstring" value="8027"/>
+                <entry key="396" type="xstring" value="117610"/>
+                <entry key="397" type="xstring" value="149570"/>
+                <entry key="398" type="xstring" value="132620"/>
+                <entry key="399" type="xstring" value="132170"/>
+                <entry key="400" type="xstring" value="132180"/>
+                <entry key="401" type="xstring" value="23058"/>
+                <entry key="402" type="xstring" value="123480"/>
+                <entry key="403" type="xstring" value="163920"/>
+                <entry key="404" type="xstring" value="163900"/>
+                <entry key="405" type="xstring" value="81560"/>
+                <entry key="406" type="xstring" value="135520"/>
+                <entry key="407" type="xstring" value="94580"/>
+                <entry key="408" type="xstring" value="94660"/>
+                <entry key="409" type="xstring" value="159970"/>
+                <entry key="410" type="xstring" value="170790"/>
+                <entry key="411" type="xstring" value="127240"/>
+                <entry key="412" type="xstring" value="127310"/>
+                <entry key="413" type="xstring" value="93520"/>
+                <entry key="414" type="xstring" value="93340"/>
+                <entry key="415" type="xstring" value="98490"/>
+                <entry key="416" type="xstring" value="25060"/>
+                <entry key="417" type="xstring" value="81340"/>
+                <entry key="418" type="xstring" value="124020"/>
+                <entry key="419" type="xstring" value="124030"/>
+                <entry key="420" type="xstring" value="99270"/>
+                <entry key="421" type="xstring" value="99280"/>
+                <entry key="422" type="xstring" value="140200"/>
+                <entry key="423" type="xstring" value="132030"/>
+                <entry key="424" type="xstring" value="113410"/>
+                <entry key="425" type="xstring" value="25009"/>
+                <entry key="426" type="xstring" value="71470"/>
+                <entry key="427" type="xstring" value="72001"/>
+                <entry key="428" type="xstring" value="82260"/>
+                <entry key="429" type="xstring" value="99450"/>
+                <entry key="430" type="xstring" value="117160"/>
+                <entry key="431" type="xstring" value="113110"/>
+                <entry key="432" type="xstring" value="178970"/>
+                <entry key="433" type="xstring" value="73660"/>
+                <entry key="434" type="xstring" value="169790"/>
+                <entry key="435" type="xstring" value="74300"/>
+                <entry key="436" type="xstring" value="188840"/>
+                <entry key="437" type="xstring" value="189760"/>
+                <entry key="438" type="xstring" value="126290"/>
+                <entry key="439" type="xstring" value="71430"/>
+                <entry key="440" type="xstring" value="16035"/>
+                <entry key="441" type="xstring" value="63600"/>
+                <entry key="442" type="xstring" value="63590"/>
+                <entry key="443" type="xstring" value="85020"/>
+                <entry key="444" type="xstring" value="71003"/>
+                <entry key="445" type="xstring" value="133160"/>
+                <entry key="446" type="xstring" value="82190"/>
+                <entry key="447" type="xstring" value="71360"/>
+                <entry key="448" type="xstring" value="97100"/>
+                <entry key="449" type="xstring" value="86010"/>
+                <entry key="450" type="xstring" value="122260"/>
+                <entry key="451" type="xstring" value="155910"/>
+                <entry key="452" type="xstring" value="17045"/>
+                <entry key="453" type="xstring" value="72090"/>
+                <entry key="454" type="xstring" value="73470"/>
+                <entry key="455" type="xstring" value="64650"/>
+                <entry key="456" type="xstring" value="140500"/>
+                <entry key="457" type="xstring" value="140480"/>
+                <entry key="458" type="xstring" value="108170"/>
+                <entry key="459" type="xstring" value="65020"/>
+                <entry key="460" type="xstring" value="97520"/>
+                <entry key="461" type="xstring" value="97510"/>
+                <entry key="462" type="xstring" value="97530"/>
+                <entry key="463" type="xstring" value="64400"/>
+                <entry key="464" type="xstring" value="55570"/>
+                <entry key="465" type="xstring" value="95640"/>
+                <entry key="466" type="xstring" value="107450"/>
+                <entry key="467" type="xstring" value="88570"/>
+                <entry key="468" type="xstring" value="15060"/>
+                <entry key="469" type="xstring" value="86130"/>
+                <entry key="470" type="xstring" value="19024"/>
+                <entry key="471" type="xstring" value="72080"/>
+                <entry key="472" type="xstring" value="2021"/>
+                <entry key="473" type="xstring" value="52550"/>
+                <entry key="474" type="xstring" value="160960"/>
+                <entry key="475" type="xstring" value="160970"/>
+                <entry key="476" type="xstring" value="137030"/>
+                <entry key="477" type="xstring" value="107020"/>
+                <entry key="478" type="xstring" value="146350"/>
+                <entry key="479" type="xstring" value="94170"/>
+                <entry key="480" type="xstring" value="156940"/>
+                <entry key="481" type="xstring" value="157930"/>
+                <entry key="482" type="xstring" value="149120"/>
+                <entry key="483" type="xstring" value="71380"/>
+                <entry key="484" type="xstring" value="95030"/>
+                <entry key="485" type="xstring" value="106500"/>
+                <entry key="486" type="xstring" value="78390"/>
+                <entry key="487" type="xstring" value="78400"/>
+                <entry key="488" type="xstring" value="84060"/>
+                <entry key="489" type="xstring" value="84050"/>
+                <entry key="490" type="xstring" value="65310"/>
+                <entry key="491" type="xstring" value="11031"/>
+                <entry key="492" type="xstring" value="25061"/>
+                <entry key="493" type="xstring" value="166870"/>
+                <entry key="494" type="xstring" value="81350"/>
+                <entry key="495" type="xstring" value="81620"/>
+                <entry key="496" type="xstring" value="82230"/>
+                <entry key="497" type="xstring" value="97620"/>
+                <entry key="498" type="xstring" value="139540"/>
+                <entry key="499" type="xstring" value="83340"/>
+                <entry key="500" type="xstring" value="76470"/>
+                <entry key="501" type="xstring" value="96350"/>
+                <entry key="502" type="xstring" value="75003"/>
+                <entry key="503" type="xstring" value="96370"/>
+                <entry key="504" type="xstring" value="138070"/>
+                <entry key="505" type="xstring" value="107530"/>
+                <entry key="506" type="xstring" value="64520"/>
+                <entry key="507" type="xstring" value="64510"/>
+                <entry key="508" type="xstring" value="64560"/>
+                <entry key="509" type="xstring" value="82010"/>
+                <entry key="510" type="xstring" value="173900"/>
+                <entry key="511" type="xstring" value="53260"/>
+                <entry key="512" type="xstring" value="22046"/>
+                <entry key="513" type="xstring" value="85490"/>
+                <entry key="514" type="xstring" value="114150"/>
+                <entry key="515" type="xstring" value="114160"/>
+                <entry key="516" type="xstring" value="114140"/>
+                <entry key="517" type="xstring" value="94560"/>
+                <entry key="518" type="xstring" value="161910"/>
+                <entry key="519" type="xstring" value="62180"/>
+                <entry key="520" type="xstring" value="73690"/>
+                <entry key="521" type="xstring" value="83540"/>
+                <entry key="522" type="xstring" value="134520"/>
+                <entry key="523" type="xstring" value="106570"/>
+                <entry key="524" type="xstring" value="106580"/>
+                <entry key="525" type="xstring" value="92030"/>
+                <entry key="526" type="xstring" value="76001"/>
+                <entry key="527" type="xstring" value="133230"/>
+                <entry key="528" type="xstring" value="133260"/>
+                <entry key="529" type="xstring" value="147100"/>
+                <entry key="530" type="xstring" value="147090"/>
+                <entry key="531" type="xstring" value="94050"/>
+                <entry key="532" type="xstring" value="82650"/>
+                <entry key="533" type="xstring" value="82660"/>
+                <entry key="534" type="xstring" value="77220"/>
+                <entry key="535" type="xstring" value="77210"/>
+                <entry key="536" type="xstring" value="66040"/>
+                <entry key="537" type="xstring" value="66120"/>
+                <entry key="538" type="xstring" value="66110"/>
+                <entry key="539" type="xstring" value="84260"/>
+                <entry key="540" type="xstring" value="72290"/>
+                <entry key="541" type="xstring" value="95170"/>
+                <entry key="542" type="xstring" value="95130"/>
+                <entry key="543" type="xstring" value="95160"/>
+                <entry key="544" type="xstring" value="108640"/>
+                <entry key="545" type="xstring" value="52510"/>
+                <entry key="546" type="xstring" value="138240"/>
+                <entry key="547" type="xstring" value="108320"/>
+                <entry key="548" type="xstring" value="78280"/>
+                <entry key="549" type="xstring" value="134100"/>
+                <entry key="550" type="xstring" value="134110"/>
+                <entry key="551" type="xstring" value="102200"/>
+                <entry key="552" type="xstring" value="102210"/>
+                <entry key="553" type="xstring" value="172790"/>
+                <entry key="554" type="xstring" value="172770"/>
+                <entry key="555" type="xstring" value="173810"/>
+            </config>
+        </config>
+    </config>
+    <config key="internal_node_subsettings">
+        <entry key="memory_policy" type="xstring" value="CacheSmallInMemory"/>
+    </config>
+    <config key="model">
+        <config key="column_selection">
+            <entry key="filter-type" type="xstring" value="STANDARD"/>
+            <config key="included_names">
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="List(id)"/>
+                <entry key="1" type="xstring" value="List(selection)"/>
+            </config>
+            <config key="excluded_names">
+                <entry key="array-size" type="xint" value="2"/>
+                <entry key="0" type="xstring" value="List(name)"/>
+                <entry key="1" type="xstring" value="List(measuringStations)"/>
+            </config>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
+            <config key="name_pattern">
+                <entry key="pattern" type="xstring" value=""/>
+                <entry key="type" type="xstring" value="Wildcard"/>
+                <entry key="caseSensitive" type="xboolean" value="true"/>
+                <entry key="excludeMatching" type="xboolean" value="false"/>
+            </config>
+            <config key="datatype">
+                <config key="typelist"/>
+            </config>
+        </config>
+        <config key="missing_value_policy_Internals">
+            <entry key="SettingsModelID" type="xstring" value="SMID_string"/>
+            <entry key="EnabledStatus" type="xboolean" value="true"/>
+        </config>
+        <entry key="missing_value_policy" type="xstring" value="DEFAULT"/>
+        <entry key="default_value_string" type="xstring" value="missing"/>
+        <entry key="default_value_boolean" type="xstring" value="false"/>
+        <entry key="default_value_integer" type="xint" value="0"/>
+        <entry key="default_value_long" type="xlong" value="0"/>
+        <entry key="default_value_double" type="xdouble" value="0.0"/>
+    </config>
+    <config key="variables"/>
+    <entry key="customDescription" type="xstring" isnull="true" value=""/>
+    <entry key="state" type="xstring" value="EXECUTED"/>
+    <entry key="factory" type="xstring" value="org.knime.base.node.flowvariable.tablerowtovariable3.TableToVariable3NodeFactory"/>
+    <entry key="node-name" type="xstring" value="Table Row to Variable"/>
+    <entry key="node-bundle-name" type="xstring" value="KNIME Base Nodes"/>
+    <entry key="node-bundle-symbolic-name" type="xstring" value="org.knime.base"/>
+    <entry key="node-bundle-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-bundle-version" type="xstring" value="5.3.2.v202409100934"/>
+    <entry key="node-feature-name" type="xstring" value="KNIME Base nodes"/>
+    <entry key="node-feature-symbolic-name" type="xstring" value="org.knime.features.base.feature.group"/>
+    <entry key="node-feature-vendor" type="xstring" value="KNIME AG, Zurich, Switzerland"/>
+    <entry key="node-feature-version" type="xstring" value="5.3.2.v202409100934"/>
+    <config key="factory_settings"/>
+    <entry key="name" type="xstring" value="Table Row to Variable"/>
+    <entry key="hasContent" type="xboolean" value="true"/>
+    <entry key="isInactive" type="xboolean" value="false"/>
+    <config key="ports">
+        <config key="port_1">
+            <entry key="index" type="xint" value="1"/>
+            <entry key="port_spec_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObjectSpec"/>
+            <entry key="port_object_class" type="xstring" value="org.knime.core.node.port.flowvariable.FlowVariablePortObject"/>
+            <entry key="port_object_summary" type="xstring" value="Variables connection"/>
+            <entry key="port_spec_location" type="xstring" value="spec/spec.zip"/>
+            <entry key="port_object_location" type="xstring" value="object/portobject.zip"/>
+            <entry key="port_dir_location" type="xstring" value="port_1"/>
+        </config>
+    </config>
+    <config key="filestores">
+        <entry key="file_store_location" type="xstring" isnull="true" value=""/>
+        <entry key="file_store_id" type="xstring" value="a12e48ec-c8f5-4ae9-8389-482d1836d42f"/>
+    </config>
+</config>

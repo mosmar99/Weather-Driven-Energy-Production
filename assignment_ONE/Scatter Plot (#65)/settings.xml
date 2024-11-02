@@ -12,7 +12,17 @@
     </config>
     <config key="view">
         <config key="xAxisColumn">
-            <entry key="selected" type="xstring" value="Energy Usage"/>
+            <entry key="selected" type="xstring" value="Date"/>
+            <config key="compatibleTypes_Internals">
+                <entry key="array-size" type="xint" value="4"/>
+                <entry key="0" type="xstring" value="org.knime.core.data.time.localdatetime.LocalDateTimeValue"/>
+                <entry key="1" type="xstring" value="org.knime.core.data.DataValue"/>
+                <entry key="2" type="xstring" value="org.knime.core.data.BoundedValue"/>
+                <entry key="3" type="xstring" value="org.knime.core.data.StringValue"/>
+            </config>
+        </config>
+        <config key="yAxisColumn">
+            <entry key="selected" type="xstring" value="Wind Energy"/>
             <config key="compatibleTypes_Internals">
                 <entry key="array-size" type="xint" value="7"/>
                 <entry key="0" type="xstring" value="org.knime.core.data.LongValue"/>
@@ -22,18 +32,6 @@
                 <entry key="4" type="xstring" value="org.knime.core.data.FuzzyNumberValue"/>
                 <entry key="5" type="xstring" value="org.knime.core.data.FuzzyIntervalValue"/>
                 <entry key="6" type="xstring" value="org.knime.core.data.BoundedValue"/>
-            </config>
-        </config>
-        <config key="yAxisColumn">
-            <entry key="selected" type="xstring" value="Avg_Temperature"/>
-            <config key="compatibleTypes_Internals">
-                <entry key="array-size" type="xint" value="6"/>
-                <entry key="0" type="xstring" value="org.knime.core.data.DoubleValue"/>
-                <entry key="1" type="xstring" value="org.knime.core.data.DataValue"/>
-                <entry key="2" type="xstring" value="org.knime.core.data.ComplexNumberValue"/>
-                <entry key="3" type="xstring" value="org.knime.core.data.FuzzyNumberValue"/>
-                <entry key="4" type="xstring" value="org.knime.core.data.FuzzyIntervalValue"/>
-                <entry key="5" type="xstring" value="org.knime.core.data.BoundedValue"/>
             </config>
         </config>
         <config key="colorColumn">
@@ -99,6 +97,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="e51fa26d-4bec-4dd2-8c56-72b2d8bdbb09"/>
+        <entry key="file_store_id" type="xstring" value="8d534dac-b3ea-4e02-822d-1ad372707c52"/>
     </config>
 </config>
