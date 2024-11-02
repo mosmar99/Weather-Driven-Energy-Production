@@ -43,14 +43,16 @@
             <entry key="filter-type" type="xstring" value="STANDARD"/>
             <config key="included_names">
                 <entry key="array-size" type="xint" value="1"/>
-                <entry key="0" type="xstring" value="wind_power"/>
+                <entry key="0" type="xstring" value="air_temp_malmo_A"/>
             </config>
             <config key="excluded_names">
-                <entry key="array-size" type="xint" value="2"/>
-                <entry key="0" type="xstring" value="Type"/>
+                <entry key="array-size" type="xint" value="4"/>
+                <entry key="0" type="xstring" value="Kvalitet"/>
                 <entry key="1" type="xstring" value="Date"/>
+                <entry key="2" type="xstring" value="Station"/>
+                <entry key="3" type="xstring" value="Parameter"/>
             </config>
-            <entry key="enforce_option" type="xstring" value="EnforceExclusion"/>
+            <entry key="enforce_option" type="xstring" value="EnforceInclusion"/>
             <config key="name_pattern">
                 <entry key="pattern" type="xstring" value=""/>
                 <entry key="type" type="xstring" value="Wildcard"/>
@@ -132,6 +134,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0d2b2834-45c7-4737-a4e4-bb463dc7fa6a"/>
+        <entry key="file_store_id" type="xstring" value="8fff25ee-4424-4506-8e79-931a619408cb"/>
     </config>
 </config>
