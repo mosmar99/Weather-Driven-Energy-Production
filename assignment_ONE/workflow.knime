@@ -7,8 +7,8 @@
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="Mahmu"/>
         <entry key="authored-when" type="xstring" value="2024-10-30 08:31:12 +0100"/>
-        <entry key="lastEdited-by" type="xstring" value="Isac Laptop"/>
-        <entry key="lastEdited-when" type="xstring" value="2024-11-02 17:00:59 +0100"/>
+        <entry key="lastEdited-by" type="xstring" value="sebastian"/>
+        <entry key="lastEdited-when" type="xstring" value="2024-11-03 10:08:34 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -90,6 +90,22 @@
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="615"/>
                     <entry key="1" type="xint" value="-11"/>
+                    <entry key="2" type="xint" value="-1"/>
+                    <entry key="3" type="xint" value="-1"/>
+                </config>
+            </config>
+        </config>
+        <config key="node_139">
+            <entry key="id" type="xint" value="139"/>
+            <entry key="node_settings_file" type="xstring" value="Analysis C (#139)/settings.xml"/>
+            <entry key="node_is_meta" type="xboolean" value="true"/>
+            <entry key="node_type" type="xstring" value="SubNode"/>
+            <entry key="ui_classname" type="xstring" value="org.knime.core.node.workflow.NodeUIInformation"/>
+            <config key="ui_settings">
+                <config key="extrainfo.node.bounds">
+                    <entry key="array-size" type="xint" value="4"/>
+                    <entry key="0" type="xint" value="615"/>
+                    <entry key="1" type="xint" value="149"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
