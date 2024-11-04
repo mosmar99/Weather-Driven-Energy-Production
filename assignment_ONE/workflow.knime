@@ -7,8 +7,8 @@
     <config key="authorInformation">
         <entry key="authored-by" type="xstring" value="Mahmu"/>
         <entry key="authored-when" type="xstring" value="2024-10-30 08:31:12 +0100"/>
-        <entry key="lastEdited-by" type="xstring" value="sebastian"/>
-        <entry key="lastEdited-when" type="xstring" value="2024-11-03 10:08:34 +0100"/>
+        <entry key="lastEdited-by" type="xstring" value="Mahmu"/>
+        <entry key="lastEdited-when" type="xstring" value="2024-11-04 11:45:03 +0100"/>
     </config>
     <entry key="customDescription" type="xstring" isnull="true" value=""/>
     <entry key="state" type="xstring" value="EXECUTED"/>
@@ -89,7 +89,7 @@
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="615"/>
-                    <entry key="1" type="xint" value="-11"/>
+                    <entry key="1" type="xint" value="-31"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
@@ -105,7 +105,7 @@
                 <config key="extrainfo.node.bounds">
                     <entry key="array-size" type="xint" value="4"/>
                     <entry key="0" type="xint" value="615"/>
-                    <entry key="1" type="xint" value="149"/>
+                    <entry key="1" type="xint" value="114"/>
                     <entry key="2" type="xint" value="-1"/>
                     <entry key="3" type="xint" value="-1"/>
                 </config>
