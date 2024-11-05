@@ -83,13 +83,13 @@
             <config key="lower_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.LongCell"/>
                 <config key="org.knime.core.data.def.LongCell">
-                    <entry key="LongCell" type="xlong" value="1730797200000"/>
+                    <entry key="LongCell" type="xlong" value="1730815200000"/>
                 </config>
             </config>
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.LongCell"/>
                 <config key="org.knime.core.data.def.LongCell">
-                    <entry key="LongCell" type="xlong" value="1730797200000"/>
+                    <entry key="LongCell" type="xlong" value="1730815200000"/>
                 </config>
             </config>
         </config>

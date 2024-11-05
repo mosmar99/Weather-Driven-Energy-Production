@@ -3,5 +3,7 @@
     <last-modified>2024-11-02T16:24:42.064+01:00</last-modified>
     <description/>
     <in-ports/>
-    <out-ports/>
+    <out-ports>
+        <port name="Port 1"/>
+    </out-ports>
 </component-metadata>
