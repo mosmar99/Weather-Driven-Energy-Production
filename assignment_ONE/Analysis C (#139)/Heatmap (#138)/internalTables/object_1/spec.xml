@@ -37,13 +37,13 @@
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="A"/>
+                        <entry key="StringCell" type="xstring" value="Power"/>
                     </config>
                 </config>
                 <config key="1">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="B"/>
+                        <entry key="StringCell" type="xstring" value="Time"/>
                     </config>
                 </config>
             </config>
@@ -53,21 +53,21 @@
             <entry key="color_model_class" type="xstring" value="org.knime.core.data.property.ColorModelNominal"/>
             <config key="color_model">
                 <config key="keys">
-                    <config key="A">
+                    <config key="Power">
                         <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                         <config key="org.knime.core.data.def.StringCell">
-                            <entry key="StringCell" type="xstring" value="A"/>
+                            <entry key="StringCell" type="xstring" value="Power"/>
                         </config>
                     </config>
-                    <config key="B">
+                    <config key="Time">
                         <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                         <config key="org.knime.core.data.def.StringCell">
-                            <entry key="StringCell" type="xstring" value="B"/>
+                            <entry key="StringCell" type="xstring" value="Time"/>
                         </config>
                     </config>
                 </config>
-                <entry key="A" type="xint" value="-13393876"/>
-                <entry key="B" type="xint" value="-1893860"/>
+                <entry key="Power" type="xint" value="-13393876"/>
+                <entry key="Time" type="xint" value="-1893860"/>
                 <config key="palette">
                     <entry key="array-size" type="xint" value="12"/>
                     <entry key="0" type="xint" value="-13393876"/>
@@ -105,7 +105,7 @@
             <config key="upper_bound">
                 <entry key="datacell" type="xstring" value="org.knime.core.data.def.DoubleCell"/>
                 <config key="org.knime.core.data.def.DoubleCell">
-                    <entry key="DoubleCell" type="xdouble" value="1602.3803763440865"/>
+                    <entry key="DoubleCell" type="xdouble" value="1656.4526209677413"/>
                 </config>
             </config>
         </config>
