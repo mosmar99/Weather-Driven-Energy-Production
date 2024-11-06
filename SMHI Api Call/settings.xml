@@ -26,7 +26,8 @@
     <entry key="state" type="xstring" value="IDLE"/>
     <config key="nodecontainer_message">
         <entry key="type" type="xstring" value="WARNING"/>
-        <entry key="message" type="xstring" value="Errors loading flow variables into node : Errors overwriting node settings with flow variables: Unknown variable &quot;from_date&quot;"/>
+        <entry key="message" type="xstring" value="Contains 2 nodes with execution failure"/>
+        <entry key="issue" type="xstring" value="Component Input #55: No example input data stored with component"/>
     </config>
     <entry key="workflow-file" type="xstring" value="workflow.knime"/>
     <entry key="virtual-in-ID" type="xint" value="55"/>
@@ -49,7 +50,7 @@
     </config>
     <config key="workflow_template_information">
         <entry key="role" type="xstring" value="Template"/>
-        <entry key="timestamp" type="xstring" value="2024-11-04 11:24:49 +0000"/>
+        <entry key="timestamp" type="xstring" value="2024-11-06 08:58:15 +0000"/>
         <entry key="sourceURI" type="xstring" isnull="true" value=""/>
         <entry key="templateType" type="xstring" value="SubNode"/>
     </config>
