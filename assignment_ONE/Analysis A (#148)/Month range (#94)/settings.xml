@@ -12,7 +12,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="from_date"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="2023-07-01T00:00:00+00:00[UTC]"/>
+            <entry key="value" type="xstring" value="2022-01-01T00:00:00+00:00[UTC]"/>
         </config>
         <config key="Variable_2">
             <entry key="type" type="xstring" value="variable"/>
@@ -24,7 +24,7 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="from_date"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="2023-07-01T00:00:00+00:00[UTC]"/>
+            <entry key="value" type="xstring" value="2022-01-01T00:00:00+00:00[UTC]"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -35,7 +35,7 @@
             <entry key="string" type="xstring" value="2024-06"/>
         </config>
         <config key="months_period_input-67">
-            <entry key="integer" type="xint" value="12"/>
+            <entry key="integer" type="xint" value="30"/>
         </config>
     </config>
     <config key="nodeAnnotation">

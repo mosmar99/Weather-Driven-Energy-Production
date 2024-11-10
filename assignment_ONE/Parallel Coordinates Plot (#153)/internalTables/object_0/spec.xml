@@ -241,7 +241,7 @@
         </config>
         <config key="column_domain">
             <config key="possible_values">
-                <entry key="array-size" type="xint" value="3"/>
+                <entry key="array-size" type="xint" value="2"/>
                 <config key="0">
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
@@ -252,12 +252,6 @@
                     <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
                     <config key="org.knime.core.data.def.StringCell">
                         <entry key="StringCell" type="xstring" value="cluster_1"/>
-                    </config>
-                </config>
-                <config key="2">
-                    <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                    <config key="org.knime.core.data.def.StringCell">
-                        <entry key="StringCell" type="xstring" value="cluster_2"/>
                     </config>
                 </config>
             </config>
@@ -279,16 +273,9 @@
                             <entry key="StringCell" type="xstring" value="cluster_1"/>
                         </config>
                     </config>
-                    <config key="cluster_2">
-                        <entry key="datacell" type="xstring" value="org.knime.core.data.def.StringCell"/>
-                        <config key="org.knime.core.data.def.StringCell">
-                            <entry key="StringCell" type="xstring" value="cluster_2"/>
-                        </config>
-                    </config>
                 </config>
                 <entry key="cluster_0" type="xint" value="-13393876"/>
                 <entry key="cluster_1" type="xint" value="-1893860"/>
-                <entry key="cluster_2" type="xint" value="-5154520"/>
                 <config key="palette">
                     <entry key="array-size" type="xint" value="12"/>
                     <entry key="0" type="xint" value="-13393876"/>

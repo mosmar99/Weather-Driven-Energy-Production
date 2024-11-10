@@ -6,13 +6,13 @@
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="from_date"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="2023-07-01T00:00:00"/>
+            <entry key="value" type="xstring" value="2022-01-01T00:00:00"/>
         </config>
         <config key="Variable_1">
             <entry key="type" type="xstring" value="variable"/>
             <entry key="name" type="xstring" value="from_date"/>
             <entry key="class" type="xstring" value="STRING"/>
-            <entry key="value" type="xstring" value="2023-07-01T00:00:00"/>
+            <entry key="value" type="xstring" value="2022-01-01T00:00:00"/>
         </config>
     </config>
     <config key="internal_node_subsettings">
@@ -68,6 +68,6 @@
     </config>
     <config key="filestores">
         <entry key="file_store_location" type="xstring" isnull="true" value=""/>
-        <entry key="file_store_id" type="xstring" value="0e5f8690-4544-46e0-93b6-ee3fe15c3963"/>
+        <entry key="file_store_id" type="xstring" value="3ced8526-1bec-41d6-b4ab-a59e8d4824d0"/>
     </config>
 </config>
